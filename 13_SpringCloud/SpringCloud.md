@@ -1,7 +1,7 @@
 **1** 从Boot和Cloud版本选型开始说起
 ---------------------
 
-![](SpringCloud.assets\9fa2ce26f4d545e0bcf66f754974eb41.png)
+![](SpringCloud.assets/9fa2ce26f4d545e0bcf66f754974eb41.png)
 
 ### 1.1 Springboot版本选择
 
@@ -11,7 +11,7 @@
 
 #### 1.1.2 官网看Boot版本
 
-![](SpringCloud.assets\2439ff9f8cb84c4992468bddf83a8c58.png)
+![](SpringCloud.assets/2439ff9f8cb84c4992468bddf83a8c58.png)
 
 #### 1.1.3 SpringBoot3.0崛起
 
@@ -19,7 +19,7 @@
 
 通过上面官网发现，Boot官方强烈建议你使用Java17+升级到3.X以上版本
 
-![](SpringCloud.assets\add71f26fbd94a069f92115c32aac56c.png)
+![](SpringCloud.assets/add71f26fbd94a069f92115c32aac56c.png)
 
 ### 1.2 Springcloud版本选择
 
@@ -39,15 +39,15 @@ SpringCloud是一个由许多子项目组成的综合项目，各子项目有不
 
 当SpringCloud的发布内容积累到临界点或者一个重大BUG被解决后，会发布一个"service releases"版本，简称SRX版本，比如Greenwich.SR2就是SpringCloud发布的Greenwich版本的第2个SRX版本。
 
-![](SpringCloud.assets\5d3cab12fbd5425a925de82dcd8b52ed.png)
+![](SpringCloud.assets/5d3cab12fbd5425a925de82dcd8b52ed.png)
 
 **springcloud(截至2023.12.12)**
 
-![](SpringCloud.assets\b6840c24ffc34da089661330c160d0de.png)
+![](SpringCloud.assets/b6840c24ffc34da089661330c160d0de.png)
 
 **[Spring Cloud](https://spring.io/projects/spring-cloud#overview "Spring Cloud")**
 
-![](SpringCloud.assets\d3dc09e93ae7400f8c1b87077a494c5b.png)
+![](SpringCloud.assets/d3dc09e93ae7400f8c1b87077a494c5b.png)
 
 ### 1.3 Springcloud Alibaba版本选择
 
@@ -55,7 +55,7 @@ SpringCloud是一个由许多子项目组成的综合项目，各子项目有不
 
 [Spring Cloud Alibaba](https://spring.io/projects/spring-cloud-alibaba#learn "Spring Cloud Alibaba")
 
-![](SpringCloud.assets\cc2c79e0a101486ca7930f3af89f3324.png)
+![](SpringCloud.assets/cc2c79e0a101486ca7930f3af89f3324.png)
 
 有延后情况，非最新版（不推荐）
 
@@ -67,7 +67,7 @@ SpringCloud是一个由许多子项目组成的综合项目，各子项目有不
 
 **版本选择**
 
-![](SpringCloud.assets\3d01eb16474c4da7a29b027f3ccd9460.png)
+![](SpringCloud.assets/3d01eb16474c4da7a29b027f3ccd9460.png)
 
 #### 1.3.3 SpringCloud Alibaba版本
 
@@ -79,15 +79,15 @@ SpringCloud是一个由许多子项目组成的综合项目，各子项目有不
 
 若同时用boot和cloud，由话事人cloud决定boot版本
 
-![](SpringCloud.assets\609dc535e4014030be1f3ba4e6873a7e.png)
+![](SpringCloud.assets/609dc535e4014030be1f3ba4e6873a7e.png)
 
 Spring cloud Alibaba毕业版本依赖关系(推荐使用)
 
 [https://github.com/alibaba/spring-cloud-alibaba/wiki/%E7%89%88%E6%9C%AC%E8%AF%B4%E6%98%8E](https://github.com/alibaba/spring-cloud-alibaba/wiki/%E7%89%88%E6%9C%AC%E8%AF%B4%E6%98%8E "https://github.com/alibaba/spring-cloud-alibaba/wiki/%E7%89%88%E6%9C%AC%E8%AF%B4%E6%98%8E")
 
-![](SpringCloud.assets\b62396ed806b4e2e9f45853816f14604.png)
+![](SpringCloud.assets/b62396ed806b4e2e9f45853816f14604.png)
 
-![](SpringCloud.assets\5e7dd65ccec24762b5d0f5d679d03d9a.png)
+![](SpringCloud.assets/5e7dd65ccec24762b5d0f5d679d03d9a.png)
 
 
 
@@ -100,40 +100,40 @@ Spring cloud Alibaba毕业版本依赖关系(推荐使用)
 
 [02\_零基础微服务架构理论入门\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV18E411x7eT?p=2&vd_source=f3f60f7acbef49d38b97c4d660d439fc "02_零基础微服务架构理论入门_哔哩哔哩_bilibili")
 
-![](SpringCloud.assets\db2e5df3908b4a4388cbf5158ec36de6.png)
+![](SpringCloud.assets/db2e5df3908b4a4388cbf5158ec36de6.png)
 
 ### 2.2 SpringCloud是什么？能干吗？产生背景？
 
 让程序员专注于业务逻辑，有第3方支援
 
-![](SpringCloud.assets\4ad097a6f9754bc8a79f421d5de3c809.png)
+![](SpringCloud.assets/4ad097a6f9754bc8a79f421d5de3c809.png)
 
 ### 2.3 本次讲解定稿，速通版
 
-![](SpringCloud.assets\6dd75ac7dd1346a4ac2fa6d93c26f934.png)
+![](SpringCloud.assets/6dd75ac7dd1346a4ac2fa6d93c26f934.png)
 
 ### 2.4 本次讲解定稿，详推版
 
 **2018第一季**
 
-![](SpringCloud.assets\c947dd3da7ad4a85aa79d89aaa0e55da.png)
+![](SpringCloud.assets/c947dd3da7ad4a85aa79d89aaa0e55da.png)
 
 **2020第二季**
 
-![](SpringCloud.assets\e7921f869f69451e8aa043da5208eb07.png)
+![](SpringCloud.assets/e7921f869f69451e8aa043da5208eb07.png)
 
 **2024第三季**
 
 备注，如果被remove掉的组件，不再使用
 
-![](SpringCloud.assets\a8e54285f8934a3181f478868d59d250.png)
+![](SpringCloud.assets/a8e54285f8934a3181f478868d59d250.png)
 
 3 微服务架构编码Base工程模块构建
 -------------------
 
 ### 3.1 订单→支付，业务需求说明
 
-![](SpringCloud.assets\f31a546005a04efeb0c9ec6ce773e6b2.png)
+![](SpringCloud.assets/f31a546005a04efeb0c9ec6ce773e6b2.png)
 
 ### 3.2 约定 > 配置 > 编码
 
@@ -149,27 +149,27 @@ Only Do It
 
 **1 New Project**
 
-![](SpringCloud.assets\1def744514d849d1bade630ecdffe013.png)
+![](SpringCloud.assets/1def744514d849d1bade630ecdffe013.png)
 
 **2 聚合总父工程名字**
 
-![](SpringCloud.assets\90b2bd2454764be1959dc054ddfc5426.png)
+![](SpringCloud.assets/90b2bd2454764be1959dc054ddfc5426.png)
 
 **3 字符编码**
 
-![](SpringCloud.assets\5373ede8896547c4b08495a2669c4640.png)
+![](SpringCloud.assets/5373ede8896547c4b08495a2669c4640.png)
 
 **4 注解生效激活**
 
-![](SpringCloud.assets\edf2ae4862cc4191a2d4281a456d2d5d.png)
+![](SpringCloud.assets/edf2ae4862cc4191a2d4281a456d2d5d.png)
 
 **5 java编译版本选17**
 
-![](SpringCloud.assets\ab1c2c4de8e249c2ac50ff189eb14f8b.png)
+![](SpringCloud.assets/ab1c2c4de8e249c2ac50ff189eb14f8b.png)
 
 **6 File Type过滤**
 
-![](SpringCloud.assets\a8340ef1ae2a40b1bb2620c33805697c.png)
+![](SpringCloud.assets/a8340ef1ae2a40b1bb2620c33805697c.png)
 
 #### 3.3.2 父工程POM文件内容
 
@@ -313,7 +313,7 @@ Maven会沿着父子层次向上走，直到找到一个拥有dependencyManageme
 
 dependencyManagement 元素中指定的版本号。
 
-![](SpringCloud.assets\b14a1e2de68e43c2b47828b721f65e9b.png)
+![](SpringCloud.assets/b14a1e2de68e43c2b47828b721f65e9b.png)
 
 这样做的好处就是：如果有多个子项目都引用同一样依赖，则可以避免在每个使用的子项目里都声明一个版本号，优势：
 
@@ -345,7 +345,7 @@ dependencyManagement 元素中指定的版本号。
 
 2  IDEA工具支持(推荐)
 
-![](SpringCloud.assets\63491d06e1064b5babd1ac26126ad1a4.png)
+![](SpringCloud.assets/63491d06e1064b5babd1ac26126ad1a4.png)
 
 #### 3.3.4 mysql驱动说明
 
@@ -441,7 +441,7 @@ SELECT * FROM t_pay;
 
 **Module**
 
-![](SpringCloud.assets\81373a85fce94cd68c126e458c8be4c8.png)
+![](SpringCloud.assets/81373a85fce94cd68c126e458c8be4c8.png)
 
 普通Maven工程
 
@@ -652,7 +652,7 @@ jdbc.password =123456
 
 双击插件mybatis-generator:gererate，一键生成entity+mapper接口+xml实现SQL
 
-![](SpringCloud.assets\e1c65b05bb344e249fdbc42bb4fd2fb9.png)
+![](SpringCloud.assets/e1c65b05bb344e249fdbc42bb4fd2fb9.png)
 
 ### 3.5 Rest通用Base工程构建
 
@@ -678,9 +678,9 @@ jdbc.password =123456
 
 建普通Maven模块 cloud-provider-payment8001
 
-![](SpringCloud.assets\1cc9623344194b61bbc076ab60834314.png)
+![](SpringCloud.assets/1cc9623344194b61bbc076ab60834314.png)
 
-![](SpringCloud.assets\470da0168ed94f3fbf6e5cffd984006b.png)
+![](SpringCloud.assets/470da0168ed94f3fbf6e5cffd984006b.png)
 
 创建完成后请回到父工程查看pom文件变化
 
@@ -1242,23 +1242,23 @@ public class PayController{
 }
 ```
 
-![](SpringCloud.assets\16e9fcbcc8794a0b9b18446c26e88c00.png)
+![](SpringCloud.assets/16e9fcbcc8794a0b9b18446c26e88c00.png)
 
 json测试字段和我们的entity实体类字段一一对应
 
-![](SpringCloud.assets\1cf32ddf4a6340da8ca77a33b93a7e28.png)
+![](SpringCloud.assets/1cf32ddf4a6340da8ca77a33b93a7e28.png)
 
 **delete**
 
-![](SpringCloud.assets\748438641708406281acf3195331692b.png)
+![](SpringCloud.assets/748438641708406281acf3195331692b.png)
 
 **update**
 
-![](SpringCloud.assets\cea57828476940509abc1c8e82846ade.png)
+![](SpringCloud.assets/cea57828476940509abc1c8e82846ade.png)
 
 **select**
 
-![](SpringCloud.assets\50fbac86d71b4a8e911eee6f543e82d7.png)
+![](SpringCloud.assets/50fbac86d71b4a8e911eee6f543e82d7.png)
 
 **Swagger3**
 
@@ -1266,13 +1266,13 @@ json测试字段和我们的entity实体类字段一一对应
 
 **注解列表**
 
-![](SpringCloud.assets\461e761159c845f685dd46d3eaa132a2.png)
+![](SpringCloud.assets/461e761159c845f685dd46d3eaa132a2.png)
 
 **Controller**
 
 @Tag
 
-![](SpringCloud.assets\bb0290e6f9c948e2b9334c1769fdd36a.png)
+![](SpringCloud.assets/bb0290e6f9c948e2b9334c1769fdd36a.png)
 
 修改PayController
 
@@ -1340,13 +1340,13 @@ public class PayController
 
 @Operation
 
-![](SpringCloud.assets\68b103c5d70b4180a40dd30565faa842.png)
+![](SpringCloud.assets/68b103c5d70b4180a40dd30565faa842.png)
 
 **entity或者DTO**
 
 @Schema
 
-![](SpringCloud.assets\8870202dc921416db3e60e36ab11a54f.png)
+![](SpringCloud.assets/8870202dc921416db3e60e36ab11a54f.png)
 
 **含分组迭代的Config配置类**
 
@@ -1407,7 +1407,7 @@ public class Swagger3Config
 
 **1 时间格式问题**
 
-![](SpringCloud.assets\4e000129e98c4be982e646e1ba36f431.png)
+![](SpringCloud.assets/4e000129e98c4be982e646e1ba36f431.png)
 
 时间日志格式的统一和定制情况？
 
@@ -1441,7 +1441,7 @@ cloud-provider-payment8001 微服务提供者支付Module模块V2改进版++
 
 ##### 3.5.2.1 解决：时间格式问题
 
-![](SpringCloud.assets\d5260de9ecb24d5cbe2cec525331e0f0.png)
+![](SpringCloud.assets/d5260de9ecb24d5cbe2cec525331e0f0.png)
 
 ```java
 /** * 创建时间 */
@@ -1479,7 +1479,7 @@ timestamp: 接口调用时间
 
 HTTP请求返回的状态码
 
-![](SpringCloud.assets\c1f9ff72f7104a9ca045e96c04bc0f75.png)
+![](SpringCloud.assets/c1f9ff72f7104a9ca045e96c04bc0f75.png)
 
 ReturnCodeEnum
 
@@ -1691,7 +1691,7 @@ public class PayController
 if(id == -4) throw new RuntimeException("id不能为负数");
 ```
 
-![](SpringCloud.assets\d52650d5d3a5443b98db120afe4268b6.png)
+![](SpringCloud.assets/d52650d5d3a5443b98db120afe4268b6.png)
 
 ##### 3.5.2.3 解决：全局异常接入返回的标准格式
 
@@ -1796,7 +1796,7 @@ public class PayController
 
 #### 3.5.3 目前工程目录结构
 
-![](SpringCloud.assets\c8b82330e9064e7aa09e8515f404f5ac.png)
+![](SpringCloud.assets/c8b82330e9064e7aa09e8515f404f5ac.png)
 
 ### 3.6 引入微服务理念，从这里开始
 
@@ -1961,21 +1961,21 @@ RestTemplate提供了多种便捷访问远程Http服务的方法，
 
 REST请求地址、请求参数、HTTP响应转换被转换成的对象类型。
 
-![](SpringCloud.assets\fc03b1df5e204701a3b491f8dbd5c4d8.png)
+![](SpringCloud.assets/fc03b1df5e204701a3b491f8dbd5c4d8.png)
 
 **getForObject方法/getForEntity方法**
 
 返回对象为响应体中数据转化成的对象，基本上可以理解为Json
 
-![](SpringCloud.assets\74e44aadb4414eeabac80e1c10f260ae.png)
+![](SpringCloud.assets/74e44aadb4414eeabac80e1c10f260ae.png)
 
 返回对象为ResponseEntity对象，包含了响应中的一些重要信息，比如响应头、响应状态码、响应体等
 
-![](SpringCloud.assets\1f3d60f027a34968a5d682f8d16ac871.png)
+![](SpringCloud.assets/1f3d60f027a34968a5d682f8d16ac871.png)
 
 **postForObject/postForEntity**
 
-![](SpringCloud.assets\7a3514e597bc4bccb32708ce7d388763.png)
+![](SpringCloud.assets/7a3514e597bc4bccb32708ce7d388763.png)
 
 **GET请求方法**
 
@@ -2082,13 +2082,13 @@ public class OrderController{
 
 [http://localhost/consumer/pay/add?payNo=1213&orderNo=1213&userId=2&amount=3.33](http://localhost/consumer/pay/add?payNo=1213&orderNo=1213&userId=2&amount=3.33 "http://localhost/consumer/pay/add?payNo=1213&orderNo=1213&userId=2&amount=3.33")
 
-![](SpringCloud.assets\48bb11ef2fef46f7a0a7da4c56d6306e.png)
+![](SpringCloud.assets/48bb11ef2fef46f7a0a7da4c56d6306e.png)
 
 #### 3.6.2 工程重构
 
 ##### 3.6.2.1 观察问题
 
-![](SpringCloud.assets\27ce9a54ee7b41928e7d2f76777bbbd1.png)
+![](SpringCloud.assets/27ce9a54ee7b41928e7d2f76777bbbd1.png)
 
 系统中有重复部分，重构 
 
@@ -2148,7 +2148,7 @@ cloud-api-commons
 
 ##### 3.6.2.4 entities
 
-![](SpringCloud.assets\94d665ea0fd64ddc8cd30c02396e4c2d.png)
+![](SpringCloud.assets/94d665ea0fd64ddc8cd30c02396e4c2d.png)
 
 PayDTO
 
@@ -2158,7 +2158,7 @@ PayDTO
 
 ##### 3.6.2.6 maven命令clean install
 
-![](SpringCloud.assets\739292dec5ad4dbba40b8b03928781f1.png)
+![](SpringCloud.assets/739292dec5ad4dbba40b8b03928781f1.png)
 
 ##### 3.6.2.7 订单80和支付8001分别改造
 
@@ -2360,11 +2360,11 @@ PayDTO
 
 [http://localhost/consumer/pay/add?payNo=1213&orderNo=1213&userId=2&amount=3.33](http://localhost/consumer/pay/add?payNo=1213&orderNo=1213&userId=2&amount=3.33 "http://localhost/consumer/pay/add?payNo=1213&orderNo=1213&userId=2&amount=3.33")
 
-![](SpringCloud.assets\ed959115df534262ad9d2771da86ac8a.png)
+![](SpringCloud.assets/ed959115df534262ad9d2771da86ac8a.png)
 
 #### 3.6.3 目前工程样图
 
-![](SpringCloud.assets\4f4d0172de7b40dc9581ba64235ca92f.png)
+![](SpringCloud.assets/4f4d0172de7b40dc9581ba64235ca92f.png)
 
 #### 3.6.4 为什么要引入微服务
 
@@ -2372,7 +2372,7 @@ PayDTO
 
 硬编码写死问题
 
-![](SpringCloud.assets\21ed697700dd492994c7d98fc29b8d77.png)
+![](SpringCloud.assets/21ed697700dd492994c7d98fc29b8d77.png)
 
 微服务所在的IP地址和端口号硬编码到订单微服务中，会存在非常多的问题
 
@@ -2387,13 +2387,13 @@ PayDTO
 4 Consul服务注册与发现
 ---------------
 
-![](SpringCloud.assets\39c909e9ceb541b9b8a3fa53affda255.png)
+![](SpringCloud.assets/39c909e9ceb541b9b8a3fa53affda255.png)
 
 ### 4.1 为什么要引入服务注册中心
 
 #### 4.1.1 为什么引入
 
-![](SpringCloud.assets\c0925d2a5fa34b27bd4296e03c15e6cc.png)
+![](SpringCloud.assets/c0925d2a5fa34b27bd4296e03c15e6cc.png)
 
 微服务所在的IP地址和端口号硬编码到订单微服务中，会存在非常多的问题
 
@@ -2407,7 +2407,7 @@ PayDTO
 
 #### 4.1.2 对照大纲
 
-![1726560768252](SpringCloud.assets\1726560768252.png)
+![1726560768252](SpringCloud.assets/1726560768252.png)
 
 ### 4.2 为什么不再使用传统老牌的Eureka
 
@@ -2415,19 +2415,19 @@ PayDTO
 
 [Home · Netflix/eureka Wiki · GitHub](https://github.com/Netflix/eureka/wiki "Home · Netflix/eureka Wiki · GitHub")
 
-![](SpringCloud.assets\e8cb403bc9cc4fa5bea7d6768048cbdb.png)
+![](SpringCloud.assets/e8cb403bc9cc4fa5bea7d6768048cbdb.png)
 
 #### 4.2.2 Eureka对初学者不友好
 
 首次看到自我保护机制
 
-![](SpringCloud.assets\07dfea6e23be4df6890a3ea53e46e672.png)
+![](SpringCloud.assets/07dfea6e23be4df6890a3ea53e46e672.png)
 
 #### 4.2.3 注册中心独立且和微服务功能解耦
 
 目前主流服务中心，希望单独隔离出来而不是作为一个独立微服务嵌入到系统中
 
-![](SpringCloud.assets\91a056daec5344bf84a9718ea0bd42af.png)
+![](SpringCloud.assets/91a056daec5344bf84a9718ea0bd42af.png)
 
 按照Netflix的之前的思路，注册中心Eureka也是作为一个微服务且需要程序员自己开发部署；
 
@@ -2453,7 +2453,7 @@ Consul 是一套开源的分布式服务发现和配置管理系统，由 HashiC
 
 提供了微服务系统中的服务治理、配置中心、控制总线等功能。这些功能中的每一个都可以根据需要单独使用，也可以一起使用以构建全方位的服务网格，总之Consul提供了一种完整的服务网格解决方案。它具有很多优点。包括： 基于 raft 协议，比较简洁； 支持健康检查, 同时支持 HTTP 和 DNS 协议 支持跨数据中心的 WAN 集群 提供图形界面 跨平台，支持 Linux、Mac、Windows
 
-![](SpringCloud.assets\604d9c6aa3b548e39064585c260b993a.png)
+![](SpringCloud.assets/604d9c6aa3b548e39064585c260b993a.png)
 
 [What is Consul? | Consul | HashiCorp Developer](https://developer.hashicorp.com/consul/docs/intro "What is Consul? | Consul | HashiCorp Developer")
 
@@ -2461,7 +2461,7 @@ Consul 是一套开源的分布式服务发现和配置管理系统，由 HashiC
 
 **条款链接**
 
-![](SpringCloud.assets\a1e35472d70d4ea28eb1a3951607a3a9.png)
+![](SpringCloud.assets/a1e35472d70d4ea28eb1a3951607a3a9.png)
 
 [Terms of Evaluation](https://www.hashicorp.com/terms-of-evaluation "Terms of Evaluation")
 
@@ -2469,7 +2469,7 @@ Consul 是一套开源的分布式服务发现和配置管理系统，由 HashiC
 
 HashiCorp是一家非常知名的基础软件提供商，很多人可能没听过它的名字，但是其旗下的6款主流软件，Terraform、Consul、Vagrant、Nomad、Vault，Packer 相信不少程序员都听说或使用过，尤其是Consul使用者不尽其数。截止目前为止，从HashiCorp 官网上的声明来看，开源项目其实还是“安全”的，被禁用的只是Vault企业版(并且原因是Vault产品目前使用的加密算法在中国不符合法规，另一方面是美国出口管制法在涉及加密相关软件上也有相应规定。因此这两项原因使得HashiCorp不得不在声明中说明风险)而非其他所有开源产品(Terraform、Consul等)。因此，**大家可以暂时放下心来，放心使用！**
 
-![](SpringCloud.assets\ae7d5a15e8bc43fc92b5f009928412c7.png)
+![](SpringCloud.assets/ae7d5a15e8bc43fc92b5f009928412c7.png)
 
 **spring consul**
 
@@ -2479,7 +2479,7 @@ HashiCorp是一家非常知名的基础软件提供商，很多人可能没听�
 
 Consul 具有如下特性：
 
-![](SpringCloud.assets\45ff8daf8e84404ea91e8a0736f9cfa1.png)
+![](SpringCloud.assets/45ff8daf8e84404ea91e8a0736f9cfa1.png)
 
 **服务发现**
 
@@ -2509,31 +2509,31 @@ Consul支持多数据中心
 
 两大作用
 
-![](SpringCloud.assets\c29f0dde6a1640d899fabf611acd29ba.png)
+![](SpringCloud.assets/c29f0dde6a1640d899fabf611acd29ba.png)
 
 ### 4.4 安装并运行consul
 
 **官网下载**
 
-![](SpringCloud.assets\b62b6d67908d4b12a5f1d86e99d26476.png)
+![](SpringCloud.assets/b62b6d67908d4b12a5f1d86e99d26476.png)
 
 [Install | Consul | HashiCorp Developer](https://developer.hashicorp.com/consul/downloads "Install | Consul | HashiCorp Developer")
 
 **下载完成后只有一个consul.exe文件，对应全路径下查看版本号信息**
 
-![](SpringCloud.assets\6862028d3396427582bcef263618ef50.png)
+![](SpringCloud.assets/6862028d3396427582bcef263618ef50.png)
 
 **使用开发模式启动**
 
 **consul agent -dev**
 
-![](SpringCloud.assets\ea0b8e91d3c249b3958f7670c32ba149.png)
+![](SpringCloud.assets/ea0b8e91d3c249b3958f7670c32ba149.png)
 
 **通过以下地址可以访问Consul的首页：http://localhost:8500**
 
 **结果页面**
 
-![](SpringCloud.assets\d619be26a0214f95ba63a1ab487754fa.png)
+![](SpringCloud.assets/d619be26a0214f95ba63a1ab487754fa.png)
 
 ### 4.5 服务注册与发现
 
@@ -2721,7 +2721,7 @@ public class Main8001
 
 **启动8001并查看consul控制台**
 
-![](SpringCloud.assets\43eb5e2606a24a7da4060d4b593f947b.png)
+![](SpringCloud.assets/43eb5e2606a24a7da4060d4b593f947b.png)
 
 #### 4.5.2 服务消费者80
 
@@ -2901,7 +2901,7 @@ public class OrderController
 
 **启动80并查看consul控制台**
 
-![](SpringCloud.assets\65e6983bd35b49c1befe317fb779de80.png)
+![](SpringCloud.assets/65e6983bd35b49c1befe317fb779de80.png)
 
 **访问测试地址**
 
@@ -2913,7 +2913,7 @@ public class OrderController
 
 java.net.UnknownHostException: cloud-payment-service
 
-![](SpringCloud.assets\1b30a51f258e4af1af05a7b70a20e75b.png)
+![](SpringCloud.assets/1b30a51f258e4af1af05a7b70a20e75b.png)
 
 **配置修改RestTemplateConfig**
 
@@ -2943,7 +2943,7 @@ public class RestTemplateConfig
 
 #### 4.5.3 三个注册中心异同点
 
-![](SpringCloud.assets\d105a3436d8749f886c5e971abca2a17.png)
+![](SpringCloud.assets/d105a3436d8749f886c5e971abca2a17.png)
 
 **CAP**
 
@@ -2967,7 +2967,7 @@ CP - 满足一致性，分区容忍必的系统，通常性能不是特别高。
 
 AP - 满足可用性，分区容忍性的系统，通常可能对一致性要求低一些。
 
-![](SpringCloud.assets\d38daf5f71924da6ac362597549c5057.png)
+![](SpringCloud.assets/d38daf5f71924da6ac362597549c5057.png)
 
 **AP(Eureka)**
 
@@ -2977,7 +2977,7 @@ AP架构
 
 当数据出现不一致时，虽然A, B上的注册信息不完全相同，但每个Eureka节点依然能够正常对外提供服务，这会出现查询服务信息时如果请求A查不到，但请求B就能查到。如此保证了可用性但牺牲了一致性结论：违背了一致性C的要求，只满足可用性和分区容错，即AP
 
-![](SpringCloud.assets\1709aebec7634dbc99b1ab28ba1815fb.png)
+![](SpringCloud.assets/1709aebec7634dbc99b1ab28ba1815fb.png)
 
 **CP(Zookeeper/Consul)**
 
@@ -2985,7 +2985,7 @@ CP架构
 
 当网络分区出现后，为了保证一致性，**就必须拒接请求**，否则无法保证一致性，Consul 遵循CAP原理中的CP原则，保证了强一致性和分区容错性，且使用的是Raft算法，比zookeeper使用的Paxos算法更加简单。虽然保证了强一致性，但是可用性就相应下降了，例如服务注册的时间会稍长一些，因为 Consul 的 raft 协议要求必须过半数的节点都写入成功才认为注册成功 ；在leader挂掉了之后，重新选举出leader之前会导致Consul 服务不可用。结论：违背了可用性A的要求，只满足一致性和分区容错，即CP
 
-![](SpringCloud.assets\0aa92f64b3bd4af7b2e675e08906a619.png)
+![](SpringCloud.assets/0aa92f64b3bd4af7b2e675e08906a619.png)
 
 ### 4.6 服务配置与刷新
 
@@ -2997,9 +2997,9 @@ CP架构
 
 #### 4.6.2 官网说明
 
-![](SpringCloud.assets\3d394fbdc22a4783a5799860f4de77e2.png)
+![](SpringCloud.assets/3d394fbdc22a4783a5799860f4de77e2.png)
 
-![](SpringCloud.assets\bc805c21957d43009a7f4a7ac554dcbf.png)
+![](SpringCloud.assets/bc805c21957d43009a7f4a7ac554dcbf.png)
 
 #### 4.6.3 服务配置案例步骤
 
@@ -3029,7 +3029,7 @@ CP架构
 
 **配置规则说明**
 
-![](SpringCloud.assets\7abff8b7b0d3451e8728be8dc13e7f6e.png)
+![](SpringCloud.assets/7abff8b7b0d3451e8728be8dc13e7f6e.png)
 
 **新增配置文件bootstrap.yml**
 
@@ -3100,15 +3100,15 @@ mybatis:
 
 **1 参考规则**
 
-![](SpringCloud.assets\0abc2f3e6b3745cf978dd1f528fda954.png)
+![](SpringCloud.assets/0abc2f3e6b3745cf978dd1f528fda954.png)
 
 **2 创建config文件夹，以/结尾**
 
-![](SpringCloud.assets\438ec428b3dc4213a3f8ada85a77591e.png)
+![](SpringCloud.assets/438ec428b3dc4213a3f8ada85a77591e.png)
 
 **3 config文件夹下分别创建其它3个文件夹，以/结尾**
 
-![](SpringCloud.assets\5fcc8f696c3548419a6e36226535dceb.png)
+![](SpringCloud.assets/5fcc8f696c3548419a6e36226535dceb.png)
 
 cloud-payment-service
 
@@ -3118,7 +3118,7 @@ cloud-payment-service-prod
 
 **4 上述3个文件夹下分别创建data内容，data不再是文件夹**
 
-![](SpringCloud.assets\8b02e549b03248ed8dbab00a37ab5289.png)
+![](SpringCloud.assets/8b02e549b03248ed8dbab00a37ab5289.png)
 
 ##### 4.6.3.6 controller
 
@@ -3149,7 +3149,7 @@ private String getInfoByConsul(@Value("${atguigu.info}") String atguiguInfo)
 
 马上访问，结果无效
 
-![](SpringCloud.assets\14b0a2c1f0bf438cadc47cc0177546ea.png)
+![](SpringCloud.assets/14b0a2c1f0bf438cadc47cc0177546ea.png)
 
 <table border="1" cellspacing="0" style="width:680px;"><tbody><tr><td style="background-color:#f3f4fa;border-color:#000000;vertical-align:top;"><div>http://localhost:8001/pay/get/info</div></td></tr></tbody></table>
 
@@ -3189,7 +3189,7 @@ public class Main8001
 
 **官网说明**
 
-![](SpringCloud.assets\da35901ae85c4ebab4b437b2c2ad1eda.png)
+![](SpringCloud.assets/da35901ae85c4ebab4b437b2c2ad1eda.png)
 
 **修改步骤**
 
@@ -3237,14 +3237,14 @@ private String getInfoByConsul(@Value("${atguigu.info}") String atguiguInfo)
 
 **try try**
 
-![](SpringCloud.assets\bdd48f5a66b54149a36e42b663509e7d.png)
+![](SpringCloud.assets/bdd48f5a66b54149a36e42b663509e7d.png)
 
 引出问题——Consul配置持久化......
 
 5 LoadBalancer负载均衡服务调用
 ----------------------
 
-![1726560715537](SpringCloud.assets\1726560715537.png)
+![1726560715537](SpringCloud.assets/1726560715537.png)
 
 ### 5.1 Ribbon目前也进入维护模式
 
@@ -3256,13 +3256,13 @@ Spring Cloud Ribbon是基于Netflix Ribbon实现的一套客户端       负载�
 
 #### 5.1.2 维护模式不再介绍，了解即可
 
-![](SpringCloud.assets\e8bd90ed29f14923a42eb3dcd30783c3.png)
+![](SpringCloud.assets/e8bd90ed29f14923a42eb3dcd30783c3.png)
 
 [https://github.com/Netflix/ribbon](https://github.com/Netflix/ribbon "https://github.com/Netflix/ribbon")
 
 #### 5.1.3 Ribbon未来替换方案
 
-![](SpringCloud.assets\6d33d30e7cb247ed8abcf54d4bed4b16.png)
+![](SpringCloud.assets/6d33d30e7cb247ed8abcf54d4bed4b16.png)
 
 spring-cloud-loadbalancer
 
@@ -3270,7 +3270,7 @@ spring-cloud-loadbalancer
 
 #### 5.2.1 官网
 
-![](SpringCloud.assets\5fafb76ce52a4302bc9e548e0acb8c88.png)
+![](SpringCloud.assets/5fafb76ce52a4302bc9e548e0acb8c88.png)
 
 #### 5.2.2 是什么
 
@@ -3282,7 +3282,7 @@ spring-cloud-loadbalancer
 
 Spring Cloud LoadBalancer是由SpringCloud官方提供的一个开源的、简单易用的**客户端负载均衡器**，它包含在SpringCloud-commons中用它来替换了以前的Ribbon组件。相比较于Ribbon，SpringCloud LoadBalancer不仅能够支持RestTemplate，还支持WebClient（WeClient是Spring Web Flux中提供的功能，可以实现响应式异步请求）
 
-![](SpringCloud.assets\92b4cce6a7ce40b2b5953aca9211f96e.png)
+![](SpringCloud.assets/92b4cce6a7ce40b2b5953aca9211f96e.png)
 
 [Spring Cloud LoadBalancer :: Spring Cloud Commons](https://docs.spring.io/spring-cloud-commons/reference/spring-cloud-commons/loadbalancer.html "Spring Cloud LoadBalancer :: Spring Cloud Commons")
 
@@ -3302,7 +3302,7 @@ loadbalancer本地负载均衡，在调用微服务接口时候，会在注册�
 
 **架构说明:80通过轮询负载访问8001/8002/8003**
 
-![](SpringCloud.assets\48dc790006534742807f4fc4d9ee9eb6.png)
+![](SpringCloud.assets/48dc790006534742807f4fc4d9ee9eb6.png)
 
 LoadBalancer 在工作时分成两步：
 
@@ -3318,9 +3318,9 @@ LoadBalancer 在工作时分成两步：
 
 [Spring Cloud LoadBalancer :: Spring Cloud Commons](https://docs.spring.io/spring-cloud-commons/reference/spring-cloud-commons/loadbalancer.html "Spring Cloud LoadBalancer :: Spring Cloud Commons")
 
-![](SpringCloud.assets\6a62a71cf1ea47b793454df8653d4095.png)
+![](SpringCloud.assets/6a62a71cf1ea47b793454df8653d4095.png)
 
-![](SpringCloud.assets\65d668f222684018b5e0800ba1914c36.png)
+![](SpringCloud.assets/65d668f222684018b5e0800ba1914c36.png)
 
 **按照8001拷贝后新建8002微服务**
 
@@ -3354,15 +3354,15 @@ LoadBalancer 在工作时分成两步：
 
 **3 右键管理员权限打开**
 
-![](SpringCloud.assets\6cd48f62f7ae4a0b8eff42a95d88eb0f.png)
+![](SpringCloud.assets/6cd48f62f7ae4a0b8eff42a95d88eb0f.png)
 
 **4 启动结果**
 
-![](SpringCloud.assets\0f9a98b9276d447c95f3bccc7c17a740.png)
+![](SpringCloud.assets/0f9a98b9276d447c95f3bccc7c17a740.png)
 
 **5 win后台**
 
-![](SpringCloud.assets\8b79558f018e464ba0a2c39093f3180f.png)
+![](SpringCloud.assets/8b79558f018e464ba0a2c39093f3180f.png)
 
 **6 后续consul的配置数据会保存进mydata文件夹，重启有了**
 
@@ -3372,7 +3372,7 @@ LoadBalancer 在工作时分成两步：
 
 **订单80模块修改POM并注册进consul，新增LoadBalancer组件**
 
-![](SpringCloud.assets\af805ee8bb8f44f2b72fc1fcc53b2321.png)
+![](SpringCloud.assets/af805ee8bb8f44f2b72fc1fcc53b2321.png)
 
 ```xml
 <!--loadbalancer-->
@@ -3448,7 +3448,7 @@ public class OrderController
 
 **目前consul上的服务**
 
-![](SpringCloud.assets\e8c39c1acb5c4e9caff9e2c014242988.png)
+![](SpringCloud.assets/e8c39c1acb5c4e9caff9e2c014242988.png)
 
 **测试**
 
@@ -3456,9 +3456,9 @@ public class OrderController
 
 通过上述地址，交替访问到了8001/8002
 
-![](SpringCloud.assets\3a76dc7bff444f94934b4b0de39f72fc.png)
+![](SpringCloud.assets/3a76dc7bff444f94934b4b0de39f72fc.png)
 
-![](SpringCloud.assets\f42fb88e60fe4f83adb2f1df17b4c4c3.png)
+![](SpringCloud.assets/f42fb88e60fe4f83adb2f1df17b4c4c3.png)
 
 #### 5.3.3 负载均衡演示案例-小总结
 
@@ -3466,7 +3466,7 @@ public class OrderController
 
 官网地址：https://docs.spring.io/spring-cloud-consul/reference/discovery.html
 
-![](SpringCloud.assets\93e1e5aed07e4891bfede7cf5acc8df2.png)
+![](SpringCloud.assets/93e1e5aed07e4891bfede7cf5acc8df2.png)
 
 **代码解释，修改80微服务的Controller**
 
@@ -3528,15 +3528,15 @@ public String discovery()
 
 **默认2种**
 
-![](SpringCloud.assets\096197575b094d3694794e4e59183a4a.png)
+![](SpringCloud.assets/096197575b094d3694794e4e59183a4a.png)
 
 > 轮询
 
-![](SpringCloud.assets\4176cbdf1260412ab5abed727b8d4588.png)
+![](SpringCloud.assets/4176cbdf1260412ab5abed727b8d4588.png)
 
 > 随机
 
-![](SpringCloud.assets\f2fbb0cdda1b437291abc956fa2919b4.png)
+![](SpringCloud.assets/f2fbb0cdda1b437291abc956fa2919b4.png)
 
 **源码流程浅读，不用深入非重点**
 
@@ -3580,7 +3580,7 @@ public class RestTemplateConfig
 6 OpenFeign服务接口调用
 -----------------
 
-![1726560736509](SpringCloud.assets\1726560736509.png)
+![1726560736509](SpringCloud.assets/1726560736509.png)
 
 ### 6.1 提问
 
@@ -3596,7 +3596,7 @@ OpenFeign是什么
 
 Feign是一个**声明性web服务客户端**。它使编写web服务客户端变得更容易。使用Feign创建一个接口并对其进行注释。它具有可插入的注释支持，包括Feign注释和JAX-RS注释。Feign还支持可插拔编码器和解码器。Spring Cloud添加了对Spring MVC注释的支持，以及对使用Spring Web中默认使用的HttpMessageConverter的支持。Spring Cloud集成了Eureka、Spring Cloud CircuitBreaker以及Spring Cloud LoadBalancer，以便在使用Feign时提供负载平衡的http客户端。
 
-![](SpringCloud.assets\3aca96116416468cacb7d3f6f18089d7.png)
+![](SpringCloud.assets/3aca96116416468cacb7d3f6f18089d7.png)
 
 [Spring Cloud OpenFeign](https://docs.spring.io/spring-cloud-openfeign/docs/current/reference/html/#spring-cloud-feign "Spring Cloud OpenFeign")
 
@@ -3610,7 +3610,7 @@ openfeign是一个声明式的Web服务客户端
 
 只需创建一个Rest接口并在该接口上添加注解 @FeignClient 即可
 
-![](SpringCloud.assets\25315a0448ad4e37af464f160b6bcaca.png)
+![](SpringCloud.assets/25315a0448ad4e37af464f160b6bcaca.png)
 
 OpenFeign基本上就是当前微服务之间调用的事实标准
 
@@ -3644,7 +3644,7 @@ OpenFeign同时还集成SpringCloud LoadBalancer
 
 **架构说明图**
 
-![](SpringCloud.assets\0a0cca559aba4ce0a22abbd05777b6ef.png)
+![](SpringCloud.assets/0a0cca559aba4ce0a22abbd05777b6ef.png)
 
 <table border="1" cellspacing="0" style="width:680px;"><tbody><tr><td style="background-color:#f3f4fa;border-color:#000000;vertical-align:top;"><div>服务消费者80&nbsp;→&nbsp;调用含有 <span style="color:#ff0000;">@FeignClient注解的Api服务接口&nbsp;</span> <span style="color:#ff0000;">→&nbsp;</span>服务提供者(8001/8002)</div></td></tr></tbody></table>
 
@@ -3656,7 +3656,7 @@ OpenFeign同时还集成SpringCloud LoadBalancer
 
 Feign在消费端使用
 
-![](SpringCloud.assets\350c057acfb04b65b17c0263efab27d7.png)
+![](SpringCloud.assets/350c057acfb04b65b17c0263efab27d7.png)
 
 ##### 6.4.2.2 改POM
 
@@ -3808,9 +3808,9 @@ public class MainOpenFeign80
 
 自己的业务自己做+其它模块走FeignApi接口调用
 
-![](SpringCloud.assets\b28176d264f54e6a8135cd927507d555.png)
+![](SpringCloud.assets/b28176d264f54e6a8135cd927507d555.png)
 
-![](SpringCloud.assets\2a657ab47ae84ce496675bdd0a8efea6.png)
+![](SpringCloud.assets/2a657ab47ae84ce496675bdd0a8efea6.png)
 
 **修改cloud-api-commons通用模块**
 
@@ -3828,7 +3828,7 @@ public class MainOpenFeign80
 
 @FeignClient
 
-![](SpringCloud.assets\bade540f80e14fcf97cd82b9eab6a3ea.png)
+![](SpringCloud.assets/bade540f80e14fcf97cd82b9eab6a3ea.png)
 
 **参考微服务8001的Controller层，新建PayFeignApi接口**
 
@@ -3878,7 +3878,7 @@ public interface PayFeignApi
 
 **bug提醒一下**
 
-![](SpringCloud.assets\a382fcf3b69c4054a9d69a8be0fc7a54.png)
+![](SpringCloud.assets/a382fcf3b69c4054a9d69a8be0fc7a54.png)
 
 **拷贝之前的80工程进cloud-consumer-feign-order80，记得去掉部分代码和LoadBalancer不相关特性**
 
@@ -3956,15 +3956,15 @@ OpenFeign默认集成了LoadBalancer
 
 上述官网说明
 
-![](SpringCloud.assets\e31cc7510b0f4776a2750bc3a08dce1a.png)
+![](SpringCloud.assets/e31cc7510b0f4776a2750bc3a08dce1a.png)
 
-![](SpringCloud.assets\d6b93f4a09f74d448bcc8dd80920a71a.png)
+![](SpringCloud.assets/d6b93f4a09f74d448bcc8dd80920a71a.png)
 
-![](SpringCloud.assets\b18e93411a4a47cc9a996519019e7280.png)
+![](SpringCloud.assets/b18e93411a4a47cc9a996519019e7280.png)
 
 #### 6.4.4 小总结
 
-![](SpringCloud.assets\b411db3e83264ae2856e1fdeb3e4de49.png)
+![](SpringCloud.assets/b411db3e83264ae2856e1fdeb3e4de49.png)
 
 
 
@@ -3974,7 +3974,7 @@ OpenFeign默认集成了LoadBalancer
 
 **本次OpenFeign的版本要注意，最新版和网络上你看到的配置不一样**
 
-![](SpringCloud.assets\6cff250715574e249f0ff0630e9f9545.png)
+![](SpringCloud.assets/6cff250715574e249f0ff0630e9f9545.png)
 
 在Spring Cloud微服务架构中，大部分公司都是利用OpenFeign进行服务间的调用，而比较简单的业务使用默认配置是不会有多大问题的，但是如果是业务比较复杂，服务要进行比较繁杂的业务计算，那后台很有可能会出现Read Timeout这个异常，因此定制化配置超时时间就有必要了。
 
@@ -3982,11 +3982,11 @@ OpenFeign默认集成了LoadBalancer
 
 **服务提供方cloud-provider-payment8001故意写暂停62秒钟程序**
 
-![](SpringCloud.assets\3a65361116784934b0efb4d88f57c367.png)
+![](SpringCloud.assets/3a65361116784934b0efb4d88f57c367.png)
 
 **服务调用方cloud-consumer-feign-order80写好捕捉超时异常**
 
-![](SpringCloud.assets\3a588b92567a4d1cb5a19ba92e8b7054.png)
+![](SpringCloud.assets/3a588b92567a4d1cb5a19ba92e8b7054.png)
 
 code
 
@@ -4015,7 +4015,7 @@ public ResultData getPayInfo(@PathVariable("id") Integer id)
 
 错误页面
 
-![](SpringCloud.assets\cc3f06f575e7418b922fcd9215f008e6.png)
+![](SpringCloud.assets/cc3f06f575e7418b922fcd9215f008e6.png)
 
 **结论**
 
@@ -4025,7 +4025,7 @@ OpenFeign默认等待60秒钟，超过后报错
 
 **两个关键参数**
 
-![](SpringCloud.assets\7ca9ce7dd37a48f7b43a898a12db4ac6.png)
+![](SpringCloud.assets/7ca9ce7dd37a48f7b43a898a12db4ac6.png)
 
 默认OpenFeign客户端等待60秒钟，但是服务端处理超过规定时间会导致Feign客户端返回报错。
 
@@ -4039,7 +4039,7 @@ OpenFeign默认等待60秒钟，超过后报错
 
 **超时配置参考官网要求**
 
-![](SpringCloud.assets\d1aa987e38094a9588c40a12bfc0aa3a.png)
+![](SpringCloud.assets/d1aa987e38094a9588c40a12bfc0aa3a.png)
 
 **修改cloud-consumer-feign-order80，YML文件里需要开启OpenFeign客户端超时控制**
 
@@ -4047,7 +4047,7 @@ OpenFeign默认等待60秒钟，超过后报错
 
 [Spring Cloud OpenFeign](https://docs.spring.io/spring-cloud-openfeign/docs/current/reference/html/#spring-cloud-feign-overriding-defaults "Spring Cloud OpenFeign")
 
-![](SpringCloud.assets\520877ca85f247fab6133df70e1ff51c.png)
+![](SpringCloud.assets/520877ca85f247fab6133df70e1ff51c.png)
 
 **全局配置**
 
@@ -4094,7 +4094,7 @@ spring:
 
 **3秒测试**
 
-![](SpringCloud.assets\48c1119f53b84ff680753efa9f2e6bad.png)
+![](SpringCloud.assets/48c1119f53b84ff680753efa9f2e6bad.png)
 
 **指定配置**
 
@@ -4135,7 +4135,7 @@ spring:
             readTimeout: 5000
 ```
 
-![](SpringCloud.assets\e9f48e182b8c44e2962bdc9bb0292f47.png)**all**
+![](SpringCloud.assets/e9f48e182b8c44e2962bdc9bb0292f47.png)**all**
 
 ```yaml
 server:
@@ -4165,7 +4165,7 @@ spring:
 
 **5秒测试**
 
-![](SpringCloud.assets\ba348ecacccb4a659a7eab12a24ea46a.png)
+![](SpringCloud.assets/ba348ecacccb4a659a7eab12a24ea46a.png)
 
 
 
@@ -4175,7 +4175,7 @@ spring:
 
 **默认重试是关闭的，给了默认值**
 
-![](SpringCloud.assets\e3f5d05d8f21486d918eb22eaed7b97d.png)
+![](SpringCloud.assets/e3f5d05d8f21486d918eb22eaed7b97d.png)
 
 **默认关闭重试机制，测试看看**
 
@@ -4183,7 +4183,7 @@ spring:
 
 结果，只会调用一次后就结束
 
-![](SpringCloud.assets\bb7e7065e8ce48e1a797c3e80eb4111e.png)
+![](SpringCloud.assets/bb7e7065e8ce48e1a797c3e80eb4111e.png)
 
 **开启Retryer功能**
 
@@ -4216,7 +4216,7 @@ public class FeignConfig
 
 结果，总体调用3次 
 
-![](SpringCloud.assets\441a991d966649b68fecdb75cdf6fe14.png)
+![](SpringCloud.assets/441a991d966649b68fecdb75cdf6fe14.png)
 
 3 = 1(default)+2
 
@@ -4259,15 +4259,15 @@ public ResultData getPayInfo(@PathVariable("id") Integer id)
 
 替换之前， 默认用的是什么
 
-![](SpringCloud.assets\636080484dd24215b2bc1e4e1887915e.png)
+![](SpringCloud.assets/636080484dd24215b2bc1e4e1887915e.png)
 
 **Apache HttpClient 5替换 OpenFeign默认的HttpURLConnection**
 
 **why**
 
-![](SpringCloud.assets\f3f3a55940064e5f8977edcdd4c4d5c2.png)
+![](SpringCloud.assets/f3f3a55940064e5f8977edcdd4c4d5c2.png)
 
-![](SpringCloud.assets\b3402886f5cb4db6b1427df4ec1087fb.png)
+![](SpringCloud.assets/b3402886f5cb4db6b1427df4ec1087fb.png)
 
 **修改微服务feign80，cloud-consumer-openfeign-order**
 
@@ -4357,17 +4357,17 @@ spring:
 
 **替换之前**
 
-![](SpringCloud.assets\d13cca0ec17c4cf2ad10c2995ee7c379.png)
+![](SpringCloud.assets/d13cca0ec17c4cf2ad10c2995ee7c379.png)
 
 **替换之后**
 
-![](SpringCloud.assets\d1cf619eac7244c298e2513a235addb4.png)
+![](SpringCloud.assets/d1cf619eac7244c298e2513a235addb4.png)
 
 #### 6.5.4 OpenFeign请求/响应压缩
 
 **官网说明**
 
-![](SpringCloud.assets\4389a79e3cca4cf8a264ae96de210f38.png)
+![](SpringCloud.assets/4389a79e3cca4cf8a264ae96de210f38.png)
 
 **是什么**
 
@@ -4452,7 +4452,7 @@ Feign 提供了日志打印功能，我们可以通过配置来调整日志级�
 - HEADERS：除了 BASIC 中定义的信息之外，还有请求和响应的头信息；
 - FULL：除了 HEADERS 中定义的信息之外，还有请求和响应的正文及元数据。
 
-![](SpringCloud.assets\fc300bb3d53d46a5b8134fd56db63816.png)
+![](SpringCloud.assets/fc300bb3d53d46a5b8134fd56db63816.png)
 
 **配置日志bean**
 
@@ -4486,7 +4486,7 @@ public class FeignConfig
 
 **YML文件里需要开启日志的Feign客户端**
 
-![](SpringCloud.assets\daa8ed10db3e4e3bb26c8f8585356bbf.png)
+![](SpringCloud.assets/daa8ed10db3e4e3bb26c8f8585356bbf.png)
 
 > 公式(三段)： logging.level +  含有@FeignClient注解的完整带包名的接口名+debug
 
@@ -4503,17 +4503,17 @@ logging:
 
 
 
-![](SpringCloud.assets\81975b59522f481cacc63f81345e937f.png)
+![](SpringCloud.assets/81975b59522f481cacc63f81345e937f.png)
 
 **后台日志查看**
 
 **带着压缩调用**
 
-![](SpringCloud.assets\9d5a8b3699354e7d8a7815a660f6f110.png)
+![](SpringCloud.assets/9d5a8b3699354e7d8a7815a660f6f110.png)
 
 **去掉压缩调用**
 
-![](SpringCloud.assets\6500c3ae31f842549cd9562484ee634d.png)
+![](SpringCloud.assets/6500c3ae31f842549cd9562484ee634d.png)
 
 **补充实验，重试机制控制台看到3次过程**
 
@@ -4601,7 +4601,7 @@ logging:
 
 **控制台3次重试触发效果的过程**
 
-![](SpringCloud.assets\49e0d48245ae47fe9ac88efb56ab04ff.png)
+![](SpringCloud.assets/49e0d48245ae47fe9ac88efb56ab04ff.png)
 
 **本节内容最后的YML**
 
@@ -4659,7 +4659,7 @@ logging:
 7 CircuitBreaker断路器
 -------------------
 
-![1726560684440](SpringCloud.assets\1726560684440.png)
+![1726560684440](SpringCloud.assets/1726560684440.png)
 
 ### 7.1 Hystrix目前也进入维护模式
 
@@ -4669,15 +4669,15 @@ Hystrix是一个用于处理分布式系统的延迟和容错的开源库，在�
 
 了解一下即可，2024年了不再使用Hystrix
 
-![](SpringCloud.assets\a05906f449344e2cab0fdcfa8b8c4264.png)
+![](SpringCloud.assets/a05906f449344e2cab0fdcfa8b8c4264.png)
 
 #### 7.1.2 Hystrix官宣，停更进维
 
-![](SpringCloud.assets\9ee96e29ff6f49bf84caa1a664f6cedf.png)
+![](SpringCloud.assets/9ee96e29ff6f49bf84caa1a664f6cedf.png)
 
 #### 7.1.3 Hystrix未来替换方案
 
-![](SpringCloud.assets\1174bc6997ca44439e1591cff80c2365.png)
+![](SpringCloud.assets/1174bc6997ca44439e1591cff80c2365.png)
 
 Resilience4j 
 
@@ -4687,11 +4687,11 @@ Resilience4j
 
 **语雀崩了(2023.10.23)**
 
-![](SpringCloud.assets\550a82eb91074a18bbd34f888c7906b6.png)
+![](SpringCloud.assets/550a82eb91074a18bbd34f888c7906b6.png)
 
 **阿里系大部分产品(2023.11.12)**
 
-![](SpringCloud.assets\c2922d396ac64004aa088064f9902264.png)
+![](SpringCloud.assets/c2922d396ac64004aa088064f9902264.png)
 
 #### 7.2.2 分布式系统面临的问题
 
@@ -4699,7 +4699,7 @@ Resilience4j
 
 复杂分布式体系结构中的应用程序有数十个依赖关系，每个依赖关系在某些时候将不可避免地失败。
 
-![](SpringCloud.assets\02baa58f3da343f0bd848be972507ebc.png)
+![](SpringCloud.assets/02baa58f3da343f0bd848be972507ebc.png)
 
 服务雪崩
 
@@ -4739,7 +4739,7 @@ Resilience4j
 
 不让客户端等待并立刻返回一个友好提示，fallback
 
-![](SpringCloud.assets\6e82c6ffc6754b2e88f50073c6b91f98.png)
+![](SpringCloud.assets/6e82c6ffc6754b2e88f50073c6b91f98.png)
 
 **服务限流**
 
@@ -4761,7 +4761,7 @@ Resilience4j
 
 **官网**
 
-![](SpringCloud.assets\d7add7cebe1045e68c6e557e3419d3ae.png)
+![](SpringCloud.assets/d7add7cebe1045e68c6e557e3419d3ae.png)
 
 [Spring Cloud Circuit Breaker](https://spring.io/projects/spring-cloud-circuitbreaker#overview "Spring Cloud Circuit Breaker")
 
@@ -4781,15 +4781,15 @@ Circuit Breaker只是一套规范和接口，落地实现者是Resilience4J
 
 **是什么**
 
-![](SpringCloud.assets\d2e3caa27a65400e8c8995c6690ad92a.png)
+![](SpringCloud.assets/d2e3caa27a65400e8c8995c6690ad92a.png)
 
-![](SpringCloud.assets\818a4b620d5a4468a9ae23374aa0b846.png)
+![](SpringCloud.assets/818a4b620d5a4468a9ae23374aa0b846.png)
 
 [https://github.com/resilience4j/resilience4j#1-introduction](https://github.com/resilience4j/resilience4j#1-introduction "https://github.com/resilience4j/resilience4j#1-introduction")
 
 **能干嘛**
 
-![1725506016796](SpringCloud.assets\1725506016796.png)
+![1725506016796](SpringCloud.assets/1725506016796.png)
 
 [https://github.com/resilience4j/resilience4j#3-overview](https://github.com/resilience4j/resilience4j#3-overview "https://github.com/resilience4j/resilience4j#3-overview")
 
@@ -4811,11 +4811,11 @@ Circuit Breaker只是一套规范和接口，落地实现者是Resilience4J
 
 ##### 7.5.1.1 断路器3大状态
 
-![](SpringCloud.assets\1f4157fccf5d4890ad3d919d926a6ec4.png)
+![](SpringCloud.assets/1f4157fccf5d4890ad3d919d926a6ec4.png)
 
 ##### 7.5.1.2 断路器3大状态之间的转换
 
-![](SpringCloud.assets\146d0a192864478791e68b5e1d101998.png)
+![](SpringCloud.assets/146d0a192864478791e68b5e1d101998.png)
 
 ##### 7.5.1.3 断路器所有配置参数参考
 
@@ -4871,7 +4871,7 @@ Circuit Breaker只是一套规范和接口，落地实现者是Resilience4J
 
 具体时间和频次等属性见具体实际案例，这里只是作为case举例讲解，最下面笔记面试题概览，闲聊大厂面试   
 
-![](SpringCloud.assets\a4d2c59525e54dae9b3c094e6d2a68e3.png)
+![](SpringCloud.assets/a4d2c59525e54dae9b3c094e6d2a68e3.png)
 
 ##### 7.5.1.5 干，按照COUNT\_BASED(计数的滑动窗口)
 
@@ -5100,7 +5100,7 @@ public class OrderCircuitController
 
 不让调用者等待并立刻返回一个友好提示，fallback
 
-![1725521799398](SpringCloud.assets\1725521799398.png)
+![1725521799398](SpringCloud.assets/1725521799398.png)
 
 **测试(按照错误次数达到多少后开启断路)**
 
@@ -5108,7 +5108,7 @@ public class OrderCircuitController
 
 **查看YML**
 
-![](SpringCloud.assets\26b7770e5fe04c77b2368abad0cec5af.png)
+![](SpringCloud.assets/26b7770e5fe04c77b2368abad0cec5af.png)
 
 **正确**
 
@@ -5132,7 +5132,7 @@ public class OrderCircuitController
 
 **基于时间的滑动窗口**
 
-![](SpringCloud.assets\bbd65dbc74f341f99c984c49ba0e9afe.png)
+![](SpringCloud.assets/bbd65dbc74f341f99c984c49ba0e9afe.png)
 
 **修改cloud-consumer-feign-order80**
 
@@ -5216,7 +5216,7 @@ resilience4j:
 
 **为避免影响实验效果，记得关闭FeignConfig自己写的重试3次**
 
-![](SpringCloud.assets\5b4123e0a2b44a71b700e34887f5ad89.png)
+![](SpringCloud.assets/5b4123e0a2b44a71b700e34887f5ad89.png)
 
 **测试(慢查询)**
 
@@ -5240,7 +5240,7 @@ resilience4j:
 
 **断路器开启或者关闭的条件**
 
-![](SpringCloud.assets\c41cd005a9b344f6994c999980706e4c.png)
+![](SpringCloud.assets/c41cd005a9b344f6994c999980706e4c.png)
 
 当满足一定的峰值和失败率达到一定条件后，断路器将会进入OPEN状态(保险丝跳闸)，服务熔断
 
@@ -5272,19 +5272,19 @@ bulkhead(船的)舱壁/(飞机的)隔板
 
 隔板来自造船行业，床仓内部一般会分成很多小隔舱，一旦一个隔舱漏水因为隔板的存在而不至于影响其它隔舱和整体船。
 
-![](SpringCloud.assets\4d022c0714a34c4497a20a7c52550c02.png)
+![](SpringCloud.assets/4d022c0714a34c4497a20a7c52550c02.png)
 
 限并发
 
 ##### 7.5.2.3 能干吗
 
-![](SpringCloud.assets\f4d49a5466844966956a3df652c7f11a.png)
+![](SpringCloud.assets/f4d49a5466844966956a3df652c7f11a.png)
 
 **依赖隔离&负载保护：**用来限制对于下游服务的最大并发数量的限制
 
 ##### 7.5.2.4 Resilience4j提供了如下两种隔离的实现方式，可以限制并发执行的数量
 
-![](SpringCloud.assets\2d7609c17c9c4aebac27a5da759df8e7.png)
+![](SpringCloud.assets/2d7609c17c9c4aebac27a5da759df8e7.png)
 
 ##### 7.5.2.5 实现SemaphoreBulkhead(信号量舱壁)
 
@@ -5292,7 +5292,7 @@ bulkhead(船的)舱壁/(飞机的)隔板
 
 基本上就是我们JUC信号灯内容的同样思想
 
-![](SpringCloud.assets\e7c9ae0979324e9a8afb50043cc3a288.png)
+![](SpringCloud.assets/e7c9ae0979324e9a8afb50043cc3a288.png)
 
 信号量舱壁（SemaphoreBulkhead）原理
 
@@ -5308,7 +5308,7 @@ bulkhead(船的)舱壁/(飞机的)隔板
 
 io.github.resilience4j.bulkhead.internal.SemaphoreBulkhead
 
-![](SpringCloud.assets\37c1709d66f445f7bed65b9b32d03f2c.png)
+![](SpringCloud.assets/37c1709d66f445f7bed65b9b32d03f2c.png)
 
 **cloud-provider-payment8001支付微服务 修改PayCircuitController**
 
@@ -5356,7 +5356,7 @@ public String myBulkhead(@PathVariable("id") Integer id);
 
 **示例**
 
-![](SpringCloud.assets\e7c4f6bfa8874d97809546cf3830f12d.png)
+![](SpringCloud.assets/e7c4f6bfa8874d97809546cf3830f12d.png)
 
 **内容**
 
@@ -5474,7 +5474,7 @@ Bulkhead.Type.SEMAPHORE
 
 **结果**
 
-![](SpringCloud.assets\31dfc2768bc1437f8f29ae8a766b1395.png)
+![](SpringCloud.assets/31dfc2768bc1437f8f29ae8a766b1395.png)
 
 可以看到因为本案例并发线程数为2（maxConcurrentCalls: 2），只让2个线程进入执行，
 
@@ -5486,7 +5486,7 @@ Bulkhead.Type.SEMAPHORE
 
 基本上就是我们JUC-线程池内容的同样思想
 
-![](SpringCloud.assets\11e2e29badae4d5f881c20a974fc129f.png)
+![](SpringCloud.assets/11e2e29badae4d5f881c20a974fc129f.png)
 
 固定线程池舱壁（FixedThreadPoolBulkhead）
 
@@ -5508,11 +5508,11 @@ FixedThreadPoolBulkhead的功能与SemaphoreBulkhead一样也是**用于限制�
 
 **底子就是JUC里面的线程池ThreadPoolExecutor**
 
-![](SpringCloud.assets\34759fb8c4d04a999295e80411b09fd7.png)
+![](SpringCloud.assets/34759fb8c4d04a999295e80411b09fd7.png)
 
 **submit进线程池返回CompletableFuture<T>**
 
-![](SpringCloud.assets\3b7a1d1fbcdb4040a841067a469a16d3.png)
+![](SpringCloud.assets/3b7a1d1fbcdb4040a841067a469a16d3.png)
 
 **修改cloud-consumer-feign-order80**
 
@@ -5530,9 +5530,9 @@ FixedThreadPoolBulkhead的功能与SemaphoreBulkhead一样也是**用于限制�
 
 **示例**
 
-![](SpringCloud.assets\7fe1fa84b3a94e028eeeb1847964cefb.png)
+![](SpringCloud.assets/7fe1fa84b3a94e028eeeb1847964cefb.png)
 
-![](SpringCloud.assets\bfce657f9440443480766b1658463ddb.png)
+![](SpringCloud.assets/bfce657f9440443480766b1658463ddb.png)
 
 **内容**
 
@@ -5611,7 +5611,7 @@ resilience4j:
 
 **上述内容解释**
 
-![](SpringCloud.assets\9c7a125340ad44679fb2a24bf94d73d2.png)
+![](SpringCloud.assets/9c7a125340ad44679fb2a24bf94d73d2.png)
 
 **controller**
 
@@ -5647,7 +5647,7 @@ http://localhost/feign/pay/bulkhead/2
 
 http://localhost/feign/pay/bulkhead/3 
 
-![](SpringCloud.assets\6a1328e38e674d78aa6558a4e8730881.png)
+![](SpringCloud.assets/6a1328e38e674d78aa6558a4e8730881.png)
 
 
 
@@ -5667,7 +5667,7 @@ http://localhost/feign/pay/bulkhead/3
 
 比如商城秒杀业务，瞬时大量请求涌入，服务器忙不过就只好排队限流了，和去景点排队买票和去医院办理业务排队等号道理相同。
 
-![](SpringCloud.assets\4266724b1e4e41a1a8364f1b18526294.png)
+![](SpringCloud.assets/4266724b1e4e41a1a8364f1b18526294.png)
 
 所谓限流，就是通过对并发访问/请求进行限速，或者对一个时间窗口内的请求进行限速，以保护应用系统，一旦达到限制速率则可以拒绝服务、排队或等待、降级等处理。
 
@@ -5683,17 +5683,17 @@ http://localhost/feign/pay/bulkhead/3
 
 如果流入水滴超出了桶的容量，则流入的水滴将会溢出了(被丢弃)，而漏桶容量是不变的。
 
-![](SpringCloud.assets\446510e7b13843c2a37d1b384a426d13.png)
+![](SpringCloud.assets/446510e7b13843c2a37d1b384a426d13.png)
 
 缺点：
 
 这里有两个变量，一个是桶的大小，支持流量突发增多时可以存多少的水（burst），另一个是水桶漏洞的大小（rate）。因为漏桶的漏出速率是固定的参数，所以，即使网络中不存在资源冲突（没有发生拥塞），漏桶算法也不能使流突发（burst）到端口速率。因此，漏桶算法对于存在突发特性的流量来说缺乏效率。
 
-![](SpringCloud.assets\8e6cee47240f4f3eacb248fdc0c0d5df.png)
+![](SpringCloud.assets/8e6cee47240f4f3eacb248fdc0c0d5df.png)
 
 **2 令牌桶算法(Token Bucket)**
 
-![](SpringCloud.assets\7d8d1fb6444c4556a6204c8b9a07f5bf.png)
+![](SpringCloud.assets/7d8d1fb6444c4556a6204c8b9a07f5bf.png)
 
 SpringCloud默认使用该算法
 
@@ -5703,11 +5703,11 @@ SpringCloud默认使用该算法
 
 由于是在一个时间间隔内进行限制，如果用户在上个时间间隔结束前请求（但没有超过限制），同时在当前时间间隔刚开始请求（同样没超过限制），在各自的时间间隔内，这些请求都是正常的。下图统计了3次，but......
 
-![](SpringCloud.assets\dca542dcad464e759fa2125b39d37c8f.png)
+![](SpringCloud.assets/dca542dcad464e759fa2125b39d37c8f.png)
 
 缺点：间隔临界的一段时间内的请求就会超过系统限制，可能导致系统被压垮
 
-![](SpringCloud.assets\cd4f4255d1a244509ed97166eeaf9e95.png)
+![](SpringCloud.assets/cd4f4255d1a244509ed97166eeaf9e95.png)
 
 假如设定1分钟最多可以请求100次某个接口，如12:00:00-12:00:59时间段内没有数据请求但12:00:59-12:01:00时间段内突然并发100次请求，紧接着瞬间跨入下一个计数周期计数器清零；在12:01:00-12:01:01内又有100次请求。那么也就是说在时间临界点左右可能同时有2倍的峰值进行请求，从而造成后台处理请求**加倍过载**的bug，导致系统运营能力不足，甚至导致系统崩溃，/(ㄒoㄒ)/~~
 
@@ -5727,7 +5727,7 @@ double kill
 
 不断重复，通过这种方式可以巧妙的避开计数器的临界点的问题。下图统计了5次
 
-![](SpringCloud.assets\f910950dadf147b9a2f09de15bc15540.png)
+![](SpringCloud.assets/f910950dadf147b9a2f09de15bc15540.png)
 
 ##### 7.5.3.4 cloud-provider-payment8001支付微服务修改PayCircuitController新增myRatelimit方法
 
@@ -5803,7 +5803,7 @@ public String myRatelimitFallback(Integer id,Throwable t)
 
 结果
 
-![](SpringCloud.assets\9069b43021414cf881bf65cd9a0e354c.png)
+![](SpringCloud.assets/9069b43021414cf881bf65cd9a0e354c.png)
 
 刷新上述地址，正常后F5按钮狂刷一会儿，停止刷新看到被限流的效果
 
@@ -5812,13 +5812,13 @@ public String myRatelimitFallback(Integer id,Throwable t)
 8  Sleuth(Micrometer)+ZipKin分布式链路追踪
 ----------------------------------
 
-![1726560605069](SpringCloud.assets\1726560605069.png)
+![1726560605069](SpringCloud.assets/1726560605069.png)
 
 ### 8.1 Sleuth目前也进入维护模式
 
 **Sleuth官宣，改头换面**
 
-![](SpringCloud.assets\90c0d59ae4ed4328aa5cc02a1f465f38.png)
+![](SpringCloud.assets/90c0d59ae4ed4328aa5cc02a1f465f38.png)
 
 **Sleuth未来替换方案**
 
@@ -5830,11 +5830,11 @@ Micrometer Tracing
 
  在微服务框架中，一个由客户端发起的请求在后端系统中会经过多个不同的的服务节点调用来协同产生最后的请求结果，每一个前段请求都会形成一条复杂的分布式服务调用链路，链路中的任何一环出现高延时或错误都会引起整个请求最后的失败。
 
-![](SpringCloud.assets\62cc12ccf9f54c3cb6bb75514e33fe37.png)
+![](SpringCloud.assets/62cc12ccf9f54c3cb6bb75514e33fe37.png)
 
 #### 8.2.2 随着问题的复杂化+微服务的增多+调用链条的变长。
 
-![](SpringCloud.assets\647ac1839e49433cb2740a1e6e6b9968.png)
+![](SpringCloud.assets/647ac1839e49433cb2740a1e6e6b9968.png)
 
 #### 8.2.3 在分布式与微服务场景下需要解决的问题
 
@@ -5864,7 +5864,7 @@ Micrometer Tracing
 
 sleuth被micrometer替代
 
-![](SpringCloud.assets\bed37052c31844beadc146a1c002f413.png)
+![](SpringCloud.assets/bed37052c31844beadc146a1c002f413.png)
 
 **官网**
 
@@ -5878,21 +5878,21 @@ github：
 
 **老项目还能用Sleuth开发吗**
 
-![](SpringCloud.assets\a680c84950cb438094f54c5ddcfc44f7.png)
+![](SpringCloud.assets/a680c84950cb438094f54c5ddcfc44f7.png)
 
 **版本注意**
 
-![](SpringCloud.assets\d6565974502d4f29968471f1b81943fd.png)
+![](SpringCloud.assets/d6565974502d4f29968471f1b81943fd.png)
 
-![](SpringCloud.assets\f18280f2e5394488b425c3828bf43f27.png)
+![](SpringCloud.assets/f18280f2e5394488b425c3828bf43f27.png)
 
 #### 8.3.2 zipkin那？
 
 Spring Cloud Sleuth(micrometer)提供了一套完整的分布式链路追踪（Distributed Tracing）解决方案且兼容支持了zipkin展现
 
-![](SpringCloud.assets\521c023978f04a1e94389b4bc65cab92.png)
+![](SpringCloud.assets/521c023978f04a1e94389b4bc65cab92.png)
 
-![](SpringCloud.assets\cc1f38d3b6d74a34b1f65b00f85dfe6b.png)
+![](SpringCloud.assets/cc1f38d3b6d74a34b1f65b00f85dfe6b.png)
 
 #### 8.3.3 小总结
 
@@ -5900,13 +5900,13 @@ Spring Cloud Sleuth(micrometer)提供了一套完整的分布式链路追踪（D
 
 #### 8.3.4 行业内比较成熟的其它分布式链路追踪技术解决方案
 
-![](SpringCloud.assets\d2bbec1b69f64d89918191a61f11c2cd.png)
+![](SpringCloud.assets/d2bbec1b69f64d89918191a61f11c2cd.png)
 
 ### 8.4 分布式链路追踪原理
 
 **假定三个微服务调用的链路如下图所示：Service 1 调用 Service 2，Service 2 调用 Service 3 和 Service 4。**
 
-![](SpringCloud.assets\6b1d53a153174b4b8a7c3d581d0369df.png)
+![](SpringCloud.assets/6b1d53a153174b4b8a7c3d581d0369df.png)
 
 **上一步完整的调用链路**
 
@@ -5916,13 +5916,13 @@ Spring Cloud Sleuth(micrometer)提供了一套完整的分布式链路追踪（D
 
 Span标识发起的请求信息，各span通过parent id 关联起来 (Span:表示调用链路来源，通俗的理解span就是一次请求信息)
 
-![](SpringCloud.assets\f2b5e02c89024530a155262e612c0de3.png)
+![](SpringCloud.assets/f2b5e02c89024530a155262e612c0de3.png)
 
 **彻底把链路追踪整明白**
 
 一条链路通过Trace Id唯一标识，Span标识发起的请求信息，各span通过parent id 关联起来
 
-![](SpringCloud.assets\57bbd13adc9244e3820f40abae497c94.png)
+![](SpringCloud.assets/57bbd13adc9244e3820f40abae497c94.png)
 
 | **1** | **第一个节点：Span ID = A，Parent ID = null，Service 1 接收到请求。** |
 | ----- | ------------------------------------------------------------ |
@@ -5946,13 +5946,13 @@ Span标识发起的请求信息，各span通过parent id 关联起来 (Span:表�
 
 **Zipkin是一种分布式链路跟踪系统图形化的工具，Zipkin 是 Twitter 开源的分布式跟踪系统，能够收集微服务运行过程中的实时调用链路信息，并能够将这些调用链路信息展示到Web图形化界面上供开发人员分析，开发人员能够从ZipKin中分析出调用链路中的性能瓶颈，识别出存在问题的应用程序，进而定位问题和解决问题。**
 
-**![](SpringCloud.assets\4aac8f9b5d89482a9142615665ced565.png)**
+**![](SpringCloud.assets/4aac8f9b5d89482a9142615665ced565.png)**
 
 #### **8.5.3 Zipkin为什么出现？**
 
 **单有Sleuth(Micrometer)行不行？**
 
-**![](SpringCloud.assets\13309afc2fe5481890f6fca34b3f9daf.png)**
+**![](SpringCloud.assets/13309afc2fe5481890f6fca34b3f9daf.png)**
 
 **说明：**
 
@@ -5972,7 +5972,7 @@ Span标识发起的请求信息，各span通过parent id 关联起来 (Span:表�
 
 **运行jar**
 
-**![](SpringCloud.assets\617daaf8765d42218a0842511ca3de4c.png)**
+**![](SpringCloud.assets/617daaf8765d42218a0842511ca3de4c.png)**
 
 **运行控制台**
 
@@ -6259,15 +6259,15 @@ public class OrderMicrometerController
 
 **会出现以下界面**
 
-**![](SpringCloud.assets\1272d603b5234760a7798f85dd47e2c3.png)**
+**![](SpringCloud.assets/1272d603b5234760a7798f85dd47e2c3.png)**
 
 **点击【SHOW】按钮查看**
 
-**![](SpringCloud.assets\371cf89d504b4251b0e79b94f413935c.png)**
+**![](SpringCloud.assets/371cf89d504b4251b0e79b94f413935c.png)**
 
 **查看依赖关系**
 
-**![](SpringCloud.assets\ec515049e10649f285f7a55bb97d4aa3.png)**
+**![](SpringCloud.assets/ec515049e10649f285f7a55bb97d4aa3.png)**
 
 
 
@@ -6276,7 +6276,7 @@ public class OrderMicrometerController
 
 ### **9.1 概述**
 
-![1726560551064](SpringCloud.assets\1726560551064.png)
+![1726560551064](SpringCloud.assets/1726560551064.png)
 
 #### **9.1.1 是什么**
 
@@ -6284,7 +6284,7 @@ public class OrderMicrometerController
 
 **Gateway是在Spring生态系统之上构建的API网关服务，基于Spring6，Spring Boot 3和Project Reactor等技术。它旨在为微服务架构提供一种简单有效的统一的 API 路由管理方式，并为它们提供跨领域的关注点，例如：安全性、监控/度量和恢复能力。**
 
-**![](SpringCloud.assets\5d20f588e8c745ea9206f371c4e72daf.png)**
+**![](SpringCloud.assets/5d20f588e8c745ea9206f371c4e72daf.png)**
 
 **[Spring Cloud Gateway](https://docs.spring.io/spring-cloud-gateway/docs/4.0.4/reference/html/ "Spring Cloud Gateway")**
 
@@ -6296,11 +6296,11 @@ public class OrderMicrometerController
 
 **那就是SpringCloud Gateway一句话：gateway是原zuul1.x版的替代**
 
-**![](SpringCloud.assets\0e726f2e9a2c4c9c9c17bc5a74ba4f07.png)**
+**![](SpringCloud.assets/0e726f2e9a2c4c9c9c17bc5a74ba4f07.png)**
 
 #### **9.1.2 微服务架构中网关在哪里**
 
-**![](SpringCloud.assets\f4d2fd4e01704b13968090acfacf7d21.png)**
+**![](SpringCloud.assets/f4d2fd4e01704b13968090acfacf7d21.png)**
 
 #### **9.1.3 能干嘛**
 
@@ -6318,11 +6318,11 @@ public class OrderMicrometerController
 
 > Spring Cloud Gateway组件的核心是一系列的过滤器，通过这些过滤器可以将客户端发送的请求转发(路由)到对应的微服务。 Spring Cloud Gateway是加在整个微服务最前沿的防火墙和代理器，隐藏微服务结点IP端口信息，从而加强安全保护。Spring Cloud Gateway本身也是一个微服务，需要注册进服务注册中心。
 
-**![](SpringCloud.assets\072578de33ac4856803da0d874df47a7.png)**
+**![](SpringCloud.assets/072578de33ac4856803da0d874df47a7.png)**
 
 ### **9.2 Gateway三大核心**
 
-**![](SpringCloud.assets\16e7f0cd701b4d85b8786ee94c0f510d.png)**
+**![](SpringCloud.assets/16e7f0cd701b4d85b8786ee94c0f510d.png)**
 
 - **Route(路由)**
 
@@ -6338,7 +6338,7 @@ public class OrderMicrometerController
 
 **指的是Spring框架中GatewayFilter的实例，使用过滤器，可以在请求被路由前或者之后对请求进行修改。**
 
-**![](SpringCloud.assets\7d5234dc0ce143889c4785b2e2498d68.png)**
+**![](SpringCloud.assets/7d5234dc0ce143889c4785b2e2498d68.png)**
 
 **web前端请求，通过一些匹配条件，定位到真正的服务节点。并在这个转发过程的前后，进行一些精细化控制。**
 
@@ -6350,9 +6350,9 @@ public class OrderMicrometerController
 
 **官网总结**
 
-![](SpringCloud.assets\7b06d8d3d5054135bbceb2699e145967.png)
+![](SpringCloud.assets/7b06d8d3d5054135bbceb2699e145967.png)
 
-![](SpringCloud.assets\8fd80ee0fafb4c5280e2c61169647275.png)
+![](SpringCloud.assets/8fd80ee0fafb4c5280e2c61169647275.png)
 
 > **核心逻辑**
 >
@@ -6474,7 +6474,7 @@ public class Main9527
 
 **再启动9527网关入驻**
 
-**![](SpringCloud.assets\af406c042e0e424e9b25dab9b6e09f81.png)**
+**![](SpringCloud.assets/af406c042e0e424e9b25dab9b6e09f81.png)**
 
 ### **9.5 9527网关如何做路由映射**
 
@@ -6577,7 +6577,7 @@ spring:
 
 **隐真示假，映射说明**
 
-**![](SpringCloud.assets\e03b30a6679944e186614dea01fed7ca.png)**
+**![](SpringCloud.assets/e03b30a6679944e186614dea01fed7ca.png)**
 
 **添加网关后**
 
@@ -6587,7 +6587,7 @@ spring:
 
 **目前8001支付微服务前面添加GateWay成功**
 
-**![](SpringCloud.assets\4ff0ce8743bf49269aa0b4115e7f334b.png)**
+**![](SpringCloud.assets/4ff0ce8743bf49269aa0b4115e7f334b.png)**
 
 **GateWay9527 → Pay8001**
 
@@ -6730,9 +6730,9 @@ public interface PayFeignApi
 
 **不同家公司有外人，系统外访问，先找网关再服务**
 
-**![](SpringCloud.assets\852681bce9dd4ebcb7e3cca952c06c97.png)**
+**![](SpringCloud.assets/852681bce9dd4ebcb7e3cca952c06c97.png)**
 
-**![](SpringCloud.assets\5ec39ffbf5514181a88d14ebce92df20.png)**
+**![](SpringCloud.assets/5ec39ffbf5514181a88d14ebce92df20.png)**
 
 **刷新feign接口jar包**
 
@@ -6740,17 +6740,17 @@ public interface PayFeignApi
 
 **有网关正常success**
 
-**![](SpringCloud.assets\345fde770e6e49779435f1d3df3ef539.png)**
+**![](SpringCloud.assets/345fde770e6e49779435f1d3df3ef539.png)**
 
 **无网关异常**
 
-**![](SpringCloud.assets\80dac0a111fc49fdbfecac52cb8f2020.png)**
+**![](SpringCloud.assets/80dac0a111fc49fdbfecac52cb8f2020.png)**
 
 #### **9.5.5 还有问题**
 
 **请看看网关9527的yml配置，映射写死问题，^\_^**
 
-**![](SpringCloud.assets\6e22eb7049814c7daa4634c6f33d7a25.png)**
+**![](SpringCloud.assets/6e22eb7049814c7daa4634c6f33d7a25.png)**
 
 ### **9.6 GateWay高级特性**
 
@@ -6758,11 +6758,11 @@ public interface PayFeignApi
 
 **痛点**
 
-**![](SpringCloud.assets\8132f11c8b8c4c2cbe9e3d25822ee865.png)**
+**![](SpringCloud.assets/8132f11c8b8c4c2cbe9e3d25822ee865.png)**
 
 **是什么**
 
-**![](SpringCloud.assets\3c1d4317f21a456b9b6ec3aba3fb507b.png)**
+**![](SpringCloud.assets/3c1d4317f21a456b9b6ec3aba3fb507b.png)**
 
 **解决uri地址写死问题**
 
@@ -6807,7 +6807,7 @@ spring:
 
 **如果将8001微服务yml文件端口修改为8007，照样访问。我实际启动的程序是main8001，但是端口名改为8007**
 
-**![](SpringCloud.assets\81a2040906fd499eb92ac09c015f9810.png)**
+**![](SpringCloud.assets/81a2040906fd499eb92ac09c015f9810.png)**
 
 
 
@@ -6819,15 +6819,15 @@ spring:
 
 **Route Predicate Factories这个是什么东东?**
 
-**![](SpringCloud.assets\1618a10a0c4946f3bee8a1e72fd8913b.png)**
+**![](SpringCloud.assets/1618a10a0c4946f3bee8a1e72fd8913b.png)**
 
 ##### **9.6.2.2 启动微服务gateway9527，看看IDEA后台的输出**
 
-**![](SpringCloud.assets\72accbaa3ff447cc9de56f955f31a20e.png)**
+**![](SpringCloud.assets/72accbaa3ff447cc9de56f955f31a20e.png)**
 
 ##### **9.6.2.3 整体架构概述**
 
-**![](SpringCloud.assets\2c7b58bc9ccc4bf7acb567eacd8c2380.png)**
+**![](SpringCloud.assets/2c7b58bc9ccc4bf7acb567eacd8c2380.png)**
 
 ##### **9.6.2.4 常用的内置Route Predicate**
 
@@ -6835,7 +6835,7 @@ spring:
 
 **两种配置，二选一**
 
-**![](SpringCloud.assets\ca4c935ff580482586e9f7cf6576a944.png)**
+**![](SpringCloud.assets/ca4c935ff580482586e9f7cf6576a944.png)**
 
 **[Configuring Route Predicate Factories and Gateway Filter Factories :: Spring Cloud Gateway](https://docs.spring.io/spring-cloud-gateway/reference/spring-cloud-gateway/configuring-route-predicate-factories-and-filter-factories.html "Configuring Route Predicate Factories and Gateway Filter Factories :: Spring Cloud Gateway")**
 
@@ -6843,11 +6843,11 @@ spring:
 
 **Shortcut Configuration**
 
-**![](SpringCloud.assets\fc4873e907174746a2f23e057e454d91.png)**
+**![](SpringCloud.assets/fc4873e907174746a2f23e057e454d91.png)**
 
 **Fully Expanded Arguments**
 
-**![](SpringCloud.assets\edc88044a3904a60848a20f0b4e65ef7.png)**
+**![](SpringCloud.assets/edc88044a3904a60848a20f0b4e65ef7.png)**
 
 **2 测试地址**
 
@@ -6862,7 +6862,7 @@ _##_            _该属性包含多种默认方法来将Predicate组合成其他
 
 **1 After Route Predicate**
 
-**![](SpringCloud.assets\828153641c4b4820a827f82dcd3a7335.png)**
+**![](SpringCloud.assets/828153641c4b4820a827f82dcd3a7335.png)**
 
  **我们的问题是：上述这个After好懂，这个时间串串？？？对应的格式如何获得？**
 
@@ -6881,19 +6881,19 @@ public class ZonedDateTimeDemo{    
 }
 ```
 
-**![](SpringCloud.assets\9595e9a8124547a2b2326952de480b2a.png)** 
+**![](SpringCloud.assets/9595e9a8124547a2b2326952de480b2a.png)** 
 
 **2 Before Route Predicate**
 
-**![](SpringCloud.assets\9924eb70bb564e9c8914a11502b72072.png)**
+**![](SpringCloud.assets/9924eb70bb564e9c8914a11502b72072.png)**
 
 **3 Between Route Predicate**
 
-**![](SpringCloud.assets\f6e08c39d8f343098b2420432573dc7c.png)
+**![](SpringCloud.assets/f6e08c39d8f343098b2420432573dc7c.png)
 
 **4 Cookie Route Predicate**
 
-**![](SpringCloud.assets\7a55ad2f109342b2a29be09cafb7b3aa.png)**
+**![](SpringCloud.assets/7a55ad2f109342b2a29be09cafb7b3aa.png)**
 
 > Cookie Route Predicate需要两个参数，一个是 Cookie name ,一个是正则表达式。路由规则会通过获取对应的 Cookie name 值和正则表达式去匹配，如果匹配上就会执行路由，如果没有匹配上则不执行
 
@@ -6912,23 +6912,23 @@ public class ZonedDateTimeDemo{    
 
 **不带cookie参数   curl http://localhost:9527/pay/gateway/get/1**
 
-**![](SpringCloud.assets\3c2a10750a1744a48e49ee08345117b1.png)**
+**![](SpringCloud.assets/3c2a10750a1744a48e49ee08345117b1.png)**
 
 **自带cookie参数   curl http://localhost:9527/pay/gateway/get/1 --cookie "username=zzyy"**
 
-**![](SpringCloud.assets\e760e3cc98bf4b32ab2a227518931b06.png)**
+**![](SpringCloud.assets/e760e3cc98bf4b32ab2a227518931b06.png)**
 
 **方法2，postman**
 
-**![](SpringCloud.assets\9a297a026c1444ce95fdb216cdebbc58.png)**
+**![](SpringCloud.assets/9a297a026c1444ce95fdb216cdebbc58.png)**
 
 **方法3，chrome浏览器**
 
-**![](SpringCloud.assets\54f3cf48ea8745c7a937958953ce4c20.png)**
+**![](SpringCloud.assets/54f3cf48ea8745c7a937958953ce4c20.png)**
 
 **5 Header Route Predicate**
 
-**![](SpringCloud.assets\4c64a5aa72cf4479b9ac78bee3b3861f.png)**
+**![](SpringCloud.assets/4c64a5aa72cf4479b9ac78bee3b3861f.png)**
 
 **两个参数：一个是属性名称和一个正则表达式，这个属性值和正则表达式匹配则执行。**
 
@@ -6946,7 +6946,7 @@ public class ZonedDateTimeDemo{    
 
 **方法1，原生命令**
 
-**![](SpringCloud.assets\abcfc15c2f344b44b4e4b49a8d290819.png)**
+**![](SpringCloud.assets/abcfc15c2f344b44b4e4b49a8d290819.png)**
 
 **curl http://localhost:9527/pay/gateway/get/1 \-H  "X-Request-Id:123456"**
 
@@ -6956,13 +6956,13 @@ public class ZonedDateTimeDemo{    
 
 **上图正确，下图错误验证**
 
-**![](SpringCloud.assets\936bad401d6a43a291e75a0aa0f3838e.png)**
+**![](SpringCloud.assets/936bad401d6a43a291e75a0aa0f3838e.png)**
 
-**![](SpringCloud.assets\c4aebc5ec3d74980b811a6c52733c8ea.png)**
+**![](SpringCloud.assets/c4aebc5ec3d74980b811a6c52733c8ea.png)**
 
 **6 Host Route Predicate**
 
-**![](SpringCloud.assets\edf76aed5e7a4f59ae7f6c6099dd7e6d.png)**
+**![](SpringCloud.assets/edf76aed5e7a4f59ae7f6c6099dd7e6d.png)**
 
 **Host Route Predicate 接收一组参数，一组匹配的域名列表，这个模板是一个 ant 分隔的模板，用.号作为分隔符。**
 
@@ -6983,7 +6983,7 @@ public class ZonedDateTimeDemo{    
 
 **方法1，原生命令**
 
-**![](SpringCloud.assets\27f28c220d7d49c197b21f38ffc29315.png)**
+**![](SpringCloud.assets/27f28c220d7d49c197b21f38ffc29315.png)**
 
 **正确：     curl http://localhost:9527/pay/gateway/get/3 -H  "Host:www.atguigu.com"**
 
@@ -6993,11 +6993,11 @@ public class ZonedDateTimeDemo{    
 
 **方法2，postman**
 
-**![](SpringCloud.assets\09d2d731e63f41eea1090d7d0b74a181.png)**
+**![](SpringCloud.assets/09d2d731e63f41eea1090d7d0b74a181.png)**
 
 **7 Path Route Predicate**
 
-**![](SpringCloud.assets\cd0cd7be425749dfabc0b41028419f96.png)**
+**![](SpringCloud.assets/cd0cd7be425749dfabc0b41028419f96.png)**
 
 **YML**
 
@@ -7014,7 +7014,7 @@ public class ZonedDateTimeDemo{    
 
 **8 Query Route Predicate**
 
-**![](SpringCloud.assets\91eac1bf6aac4242a3a8d9778050c51a.png)**
+**![](SpringCloud.assets/91eac1bf6aac4242a3a8d9778050c51a.png)**
 
 **支持传入两个参数，一个是属性名，一个为属性值，属性值可以是正则表达式。**
 
@@ -7038,11 +7038,11 @@ public class ZonedDateTimeDemo{    
 
 **_http://localhost:9527/pay/gateway/get/3?username=abc 要有参数名username并且值还要是整数才能路由_**
 
-**![](SpringCloud.assets\7f7efde78a254200ac1e32597d1321e9.png)**
+**![](SpringCloud.assets/7f7efde78a254200ac1e32597d1321e9.png)**
 
 **9 RemoteAddr route predicate**
 
-**![](SpringCloud.assets\a22f8a4f645e46679db52233a5c6eb2e.png)**
+**![](SpringCloud.assets/a22f8a4f645e46679db52233a5c6eb2e.png)**
 
 **YML**
 
@@ -7061,11 +7061,11 @@ public class ZonedDateTimeDemo{    
 
 **CIDR网络IP划分(无类别域间路由Classless Inter-Domain Routing缩写)**
 
-**![](SpringCloud.assets\3a8c505b69864a53bdbfb24d57d1ee83.png)**
+**![](SpringCloud.assets/3a8c505b69864a53bdbfb24d57d1ee83.png)**
 
 **10 Method Route Predicate**
 
-**![](SpringCloud.assets\c9ac0d857d104a6982872512254748d3.png)**
+**![](SpringCloud.assets/c9ac0d857d104a6982872512254748d3.png)**
 
 **配置某个请求地址，只能用Get/Post方法访问，方法限制**
 
@@ -7124,7 +7124,7 @@ spring:
 
 **源代码：**
 
-**![](SpringCloud.assets\52c0dcd899304cafbafdfbb4018d0a85.png)**
+**![](SpringCloud.assets/52c0dcd899304cafbafdfbb4018d0a85.png)**
 
 ```java
 public abstract class AbstractRoutePredicateFactory<C> extends AbstractConfigurable<C> implements RoutePredicateFactory<C> 
@@ -7138,7 +7138,7 @@ public abstract class AbstractRoutePredicateFactory<C> extends AbstractConfigura
 
 **架构概述**
 
-**![](SpringCloud.assets\3375203281a342118303c88c377538c4.png)**
+**![](SpringCloud.assets/3375203281a342118303c88c377538c4.png)**
 
 **模板套路**
 
@@ -7325,7 +7325,7 @@ spring:
 
 **org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under '' to com.atguigu.cloud.mygateway.MyRoutePredicateFactory$Config**
 
-**![](SpringCloud.assets\e5a62b7b1f844c828069c666b03361a9.png)**
+**![](SpringCloud.assets/e5a62b7b1f844c828069c666b03361a9.png)**
 
 **Caused by: org.springframework.boot.context.properties.bind.validation.BindValidationException: Binding validation errors on** 
 
@@ -7333,7 +7333,7 @@ spring:
 
 **为什么Shortcut Configuration不生效？**
 
-**![](SpringCloud.assets\3590cca20c294ab9b3d866a24687d8aa.png)**
+**![](SpringCloud.assets/3590cca20c294ab9b3d866a24687d8aa.png)**
 
 **解决方案**
 
@@ -7386,15 +7386,15 @@ spring:
 
 **success**
 
-**![](SpringCloud.assets\fc66f277fcbb42cf8b1195e275f34a69.png)**
+**![](SpringCloud.assets/fc66f277fcbb42cf8b1195e275f34a69.png)**
 
-**![](SpringCloud.assets\6797abad9e5a48658705b45046633f3f.png)**
+**![](SpringCloud.assets/6797abad9e5a48658705b45046633f3f.png)**
 
 **bug分析**
 
 **缺少shortcutFieldOrder方法的实现，所以不支持短格式**
 
-**![](SpringCloud.assets\23fe5bea21d4477fae1c92324766e8f7.png)**
+**![](SpringCloud.assets/23fe5bea21d4477fae1c92324766e8f7.png)**
 
 **测试2**
 
@@ -7526,7 +7526,7 @@ spring:
 
 **“pre”和 “post” 分别会在请求被执行前调用和被执行后调用，用来修改请求和响应信息**
 
-**![](SpringCloud.assets\7c1a82dd40a14448b062e017c9fc350c.png)**
+**![](SpringCloud.assets/7c1a82dd40a14448b062e017c9fc350c.png)**
 
 **能干嘛**
 
@@ -7566,7 +7566,7 @@ spring:
 
 **单一内置过滤器GatewayFilter**
 
-**![](SpringCloud.assets\51ec5d0e4c6948a48a51a893c64a3bfe.png)**
+**![](SpringCloud.assets/51ec5d0e4c6948a48a51a893c64a3bfe.png)**
 
 **2 只讲解常见和通用的，Not All**
 
@@ -7668,7 +7668,7 @@ spring:
 
 **修改前**
 
-**![](SpringCloud.assets\3afd9af779cf4b228cb779f0daa19d32.png)**
+**![](SpringCloud.assets/3afd9af779cf4b228cb779f0daa19d32.png)**
 
 **YML**
 
@@ -7685,7 +7685,7 @@ spring:
 
 **修改后**
 
-**![](SpringCloud.assets\2d7d2906926b4a249baf4e804973023e.png)**
+**![](SpringCloud.assets/2d7d2906926b4a249baf4e804973023e.png)**
 
 **6.29. The SetRequestHeader GatewayFilter Factory**
 
@@ -7693,7 +7693,7 @@ spring:
 
 **修改前(sec-fetch-mode)**
 
-**![](SpringCloud.assets\b04968ec7ca24e41b6700ba3fcd42888.png)**
+**![](SpringCloud.assets/b04968ec7ca24e41b6700ba3fcd42888.png)**
 
 **YML**
 
@@ -7711,7 +7711,7 @@ spring:
 
 **修改后**
 
-**![](SpringCloud.assets\df88a7f7d0664d2db2a98a956443698b.png)**
+**![](SpringCloud.assets/df88a7f7d0664d2db2a98a956443698b.png)**
 
 **2 请求参数(RequestParameter)相关组**
 
@@ -7769,11 +7769,11 @@ public ResultData<String> getGatewayFilter(HttpServletRequest request)
 
 **[http://localhost:9527/pay/gateway/filter](http://localhost:9527/pay/gateway/filter "http://localhost:9527/pay/gateway/filter")**
 
-**![](SpringCloud.assets\f6ea4cd045bb431b9b4313fd501fd1b6.png)**
+**![](SpringCloud.assets/f6ea4cd045bb431b9b4313fd501fd1b6.png)**
 
 **[http://localhost:9527/pay/gateway/filter?customerId=9999&customerName=z3](http://localhost:9527/pay/gateway/filter?customerId=9999&customerName=z3 "http://localhost:9527/pay/gateway/filter?customerId=9999&customerName=z3")**
 
-**![](SpringCloud.assets\32c0e596c3f04db8b6431551292f0e81.png)**
+**![](SpringCloud.assets/32c0e596c3f04db8b6431551292f0e81.png)**
 
 **3 回应头(ResponseHeader)相关组**
 
@@ -7781,7 +7781,7 @@ public ResultData<String> getGatewayFilter(HttpServletRequest request)
 
 **[http://localhost:9527/pay/gateway/filter](http://localhost:9527/pay/gateway/filter "http://localhost:9527/pay/gateway/filter")**
 
-**![](SpringCloud.assets\dd69fb6a1b5241f5978fce904658f84f.png)**
+**![](SpringCloud.assets/dd69fb6a1b5241f5978fce904658f84f.png)**
 
 **6.4. The AddResponseHeader GatewayFilter Factory**
 
@@ -7835,7 +7835,7 @@ public ResultData<String> getGatewayFilter(HttpServletRequest request)
 
 **开启配置后，上面三个配置打包一块上**
 
-**![](SpringCloud.assets\1baa6c8fbd0642a99aacb12443a73740.png)**
+**![](SpringCloud.assets/1baa6c8fbd0642a99aacb12443a73740.png)**
 
 **4 前缀和路径相关组**
 
@@ -7864,7 +7864,7 @@ public ResultData<String> getGatewayFilter(HttpServletRequest request)
 
 
 
-**![](SpringCloud.assets\9d222c779cea4d4abdd4a0b90ee48c63.png)**
+**![](SpringCloud.assets/9d222c779cea4d4abdd4a0b90ee48c63.png)**
 
 | 之前完整正确地址：     | http://localhost:9527/pay/gateway/filter                     |
 | ---------------------- | ------------------------------------------------------------ |
@@ -7873,7 +7873,7 @@ public ResultData<String> getGatewayFilter(HttpServletRequest request)
 
 **Chrome测试**
 
-**![](SpringCloud.assets\4332168b98d34266bdc0369dd68cfd93.png)**
+**![](SpringCloud.assets/4332168b98d34266bdc0369dd68cfd93.png)**
 
 **6.29. The SetPath GatewayFilter Factory**
 
@@ -7896,7 +7896,7 @@ public ResultData<String> getGatewayFilter(HttpServletRequest request)
 
 **说明：**
 
-**![](SpringCloud.assets\9d0e473daebc4fe6929811eaf26c9b86.png)**
+**![](SpringCloud.assets/9d0e473daebc4fe6929811eaf26c9b86.png)**
 
 > 占位符中的内容不变，其他内容替换为`Setpath`设置的地址
 >
@@ -7908,7 +7908,7 @@ public ResultData<String> getGatewayFilter(HttpServletRequest request)
 
 **结果**
 
-**![](SpringCloud.assets\83e68411d02d41fea516286ff9849224.png)**
+**![](SpringCloud.assets/83e68411d02d41fea516286ff9849224.png)**
 
 **6.16. The RedirectTo GatewayFilter Factory**
 
@@ -7929,7 +7929,7 @@ filters:
 
 **配置在此处相当于全局通用，自定义秒变Global**
 
-**![](SpringCloud.assets\b54f87a82dda43959f04acd631658376.png)**
+**![](SpringCloud.assets/b54f87a82dda43959f04acd631658376.png)**
 
 **本次案例全部YML配置全集**
 
@@ -8139,15 +8139,15 @@ public class MyGlobalFilter implements GlobalFilter, Ordered
 
 **[http://localhost:9527/pay/gateway/info](http://localhost:9527/pay/gateway/info "http://localhost:9527/pay/gateway/info")**
 
-**![](SpringCloud.assets\ef2fd32d02294a3dbe6ebd051ebf0fa1.png)**
+**![](SpringCloud.assets/ef2fd32d02294a3dbe6ebd051ebf0fa1.png)**
 
 **[http://localhost:9527/pay/gateway/get/1](http://localhost:9527/pay/gateway/get/1 "http://localhost:9527/pay/gateway/get/1")**
 
-**![](SpringCloud.assets\8a731f34ad8b43798be546161854caa4.png)**
+**![](SpringCloud.assets/8a731f34ad8b43798be546161854caa4.png)**
 
 **[http://localhost:9527/pay/gateway/filter](http://localhost:9527/pay/gateway/filter "http://localhost:9527/pay/gateway/filter")**
 
-**![](SpringCloud.assets\0fad95df74504fe291cea6749d6be2aa.png)**
+**![](SpringCloud.assets/0fad95df74504fe291cea6749d6be2aa.png)**
 
 > **2 自定义条件Filter**
 
@@ -8323,13 +8323,13 @@ public class MyGatewayFilterFactory extends AbstractGatewayFilterFactory<MyGatew
 
 **出厂默认**
 
-**![](SpringCloud.assets\b9ffcc81e62f459d931df34c41cbf2f1.png)**
+**![](SpringCloud.assets/b9ffcc81e62f459d931df34c41cbf2f1.png)**
 
 **自己定制My**
 
-**![](SpringCloud.assets\139327989b48417783a97ccbe31d08c4.png)**
+**![](SpringCloud.assets/139327989b48417783a97ccbe31d08c4.png)**
 
-**![](SpringCloud.assets\46d4fb7d75b34bce9c5e30124ce6f86e.png)**
+**![](SpringCloud.assets/46d4fb7d75b34bce9c5e30124ce6f86e.png)**
 
 **测试**
 
@@ -8337,7 +8337,7 @@ public class MyGatewayFilterFactory extends AbstractGatewayFilterFactory<MyGatew
 
 **✔ [](http://localhost:9527/pay/gateway/filter "http://localhost:9527/pay/gateway/filter")?atguigu=java**
 
-**![](SpringCloud.assets\6f16c99691e5425795c625be0be60de5.png)**
+**![](SpringCloud.assets/6f16c99691e5425795c625be0be60de5.png)**
 
 ### **9.7 GateWay整合阿里巴巴Sentinel实现容错**
 
