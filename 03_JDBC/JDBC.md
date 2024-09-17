@@ -458,7 +458,7 @@ public class JdbcQuick {
 >
 > com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
 >
-> ![image-20240227234754309](F:\JDBC\JDBC\JDBC\笔记\JDBC.assets\image-20240227234754309.png)
+> ![image-20240227234754309](F:\JDBC\JDBC\JDBC\笔记\JDBC.assets/image-20240227234754309.png)
 
 
 
