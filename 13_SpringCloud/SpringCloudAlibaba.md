@@ -1,7 +1,7 @@
 10 SpringCloud Alibaba入门简介
 --------------------------
 
-![](SpringCloudAlibaba.assets\39c909e9ceb541b9b8a3fa53affda255.png)
+![](SpringCloudAlibaba.assets/39c909e9ceb541b9b8a3fa53affda255.png)
 
 ### 10.1 是什么
 
@@ -9,21 +9,21 @@
 
 **2018.10.31**，Spring Cloud Alibaba 正式入驻了 Spring Cloud 官方孵化器，并在 Maven 中央库发布了第一个版本。
 
-![](SpringCloudAlibaba.assets\5dadb2a38d4e4d2ca191413bef3ec2d2.png)
+![](SpringCloudAlibaba.assets/5dadb2a38d4e4d2ca191413bef3ec2d2.png)
 
 **[Spring Cloud Alibaba](https://spring.io/projects/spring-cloud-alibaba/ "Spring Cloud Alibaba")**
 
-![](SpringCloudAlibaba.assets\7cccbcc1c8544ed2b82185e2933084aa.png)
+![](SpringCloudAlibaba.assets/7cccbcc1c8544ed2b82185e2933084aa.png)
 
 **介绍**
 
-![](SpringCloudAlibaba.assets\2e7831456c044e48bdefccd480450e35.png)
+![](SpringCloudAlibaba.assets/2e7831456c044e48bdefccd480450e35.png)
 
 ### 10.2 能干嘛
 
 [https://github.com/alibaba/spring-cloud-alibaba/blob/2022.x/README-zh.md](https://github.com/alibaba/spring-cloud-alibaba/blob/2022.x/README-zh.md "https://github.com/alibaba/spring-cloud-alibaba/blob/2022.x/README-zh.md")
 
-![](SpringCloudAlibaba.assets\ef2762261a7d44a88cd2fe3fef4f00ec.png)
+![](SpringCloudAlibaba.assets/ef2762261a7d44a88cd2fe3fef4f00ec.png)
 
 ### 10.3 去哪下
 
@@ -35,15 +35,15 @@
 
 ### 10.4 怎么玩
 
-![](SpringCloudAlibaba.assets\aa8e6f91bc9e4bae81fc5427742ec5e3.png)
+![](SpringCloudAlibaba.assets/aa8e6f91bc9e4bae81fc5427742ec5e3.png)
 
-![](SpringCloudAlibaba.assets\8dd65f82953c4b339d13785bde4882ee.png)
+![](SpringCloudAlibaba.assets/8dd65f82953c4b339d13785bde4882ee.png)
 
 ### 10.5 毕业版本依赖关系(推荐使用)
 
 [https://github.com/alibaba/spring-cloud-alibaba/wiki/%E7%89%88%E6%9C%AC%E8%AF%B4%E6%98%8E](https://github.com/alibaba/spring-cloud-alibaba/wiki/%E7%89%88%E6%9C%AC%E8%AF%B4%E6%98%8E "https://github.com/alibaba/spring-cloud-alibaba/wiki/%E7%89%88%E6%9C%AC%E8%AF%B4%E6%98%8E")
 
-![](SpringCloudAlibaba.assets\877e07d03c544fa89eac82798e74fa04.png)
+![](SpringCloudAlibaba.assets/877e07d03c544fa89eac82798e74fa04.png)
 
 ### 10.6 SpringCloud Alibaba开发参考文档
 
@@ -58,17 +58,17 @@
 11 SpringCloud Alibaba Nacos服务注册和配置中心
 -------------------------------------
 
-![1726560862762](SpringCloudAlibaba.assets\1726560862762.png)
+![1726560862762](SpringCloudAlibaba.assets/1726560862762.png)
 
 ### 11.1 总体介绍
 
-![](SpringCloudAlibaba.assets\da013bc92ef44fb8950a20c109744ea2.png)
+![](SpringCloudAlibaba.assets/da013bc92ef44fb8950a20c109744ea2.png)
 
 ### 11.2 Nacos简介
 
 #### 11.2.1 为什么叫Nacos这个名字
 
-![](SpringCloudAlibaba.assets\f7ce5a24298d451aae94886bc4bd6339.png)
+![](SpringCloudAlibaba.assets/f7ce5a24298d451aae94886bc4bd6339.png)
 
 Nacos: Dynamic Naming and Configuration Service
 
@@ -78,7 +78,7 @@ Nacos: Dynamic Naming and Configuration Service
 
 [Redirecting to: https://nacos.io/](https://nacos.io/zh-cn/index.html "Redirecting to: https://nacos.io/")
 
-![](SpringCloudAlibaba.assets\22915282922a46a6b04baedd5ee500f5.png)
+![](SpringCloudAlibaba.assets/22915282922a46a6b04baedd5ee500f5.png)
 
 **一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台。**
 
@@ -102,13 +102,13 @@ Nacos = Spring Cloud Consul
 
 [Redirecting to: https://nacos.io/](https://nacos.io/zh-cn/ "Redirecting to: https://nacos.io/")
 
-![](SpringCloudAlibaba.assets\d2a57709f0094a3bbd61609acdde7ed3.png)
+![](SpringCloudAlibaba.assets/d2a57709f0094a3bbd61609acdde7ed3.png)
 
 #### 11.2.5 各种注册中心比较
 
 注：CAP原则又称CAP定理，指的是在一个[分布式系统](https://baike.baidu.com/item/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/4905336?fromModule=lemma_inlink "分布式系统")中， Consistency（一致性）、 Availability（可用性）、Partition tolerance（分区容错性），三者不可得兼。
 
-![](SpringCloudAlibaba.assets\21b407c6280844f0b1e83575159b5343.png)
+![](SpringCloudAlibaba.assets/21b407c6280844f0b1e83575159b5343.png)
 
 据说 Nacos 在阿里巴巴内部有超过 10 万的实例运行，已经过了类似双十一等各种大型流量的考验，Nacos默认是AP模式，
 
@@ -128,19 +128,19 @@ Nacos = Spring Cloud Consul
 
 [Redirecting to: https://nacos.io/](https://nacos.io/zh-cn/index.html "Redirecting to: https://nacos.io/")
 
-![](SpringCloudAlibaba.assets\75be2159ab0e4fe494afe00ce42e5f89.png)
+![](SpringCloudAlibaba.assets/75be2159ab0e4fe494afe00ce42e5f89.png)
 
 [Nacos 快速开始](https://nacos.io/zh-cn/docs/v2/quickstart/quick-start.html "Nacos 快速开始")
 
-![](SpringCloudAlibaba.assets\777e11f47c6d40bf84567868087b6c94.png)
+![](SpringCloudAlibaba.assets/777e11f47c6d40bf84567868087b6c94.png)
 
 [https://github.com/alibaba/nacos/releases](https://github.com/alibaba/nacos/releases "https://github.com/alibaba/nacos/releases")
 
-![](SpringCloudAlibaba.assets\6bdaf6f18bd24f789acc601566df5ea8.png)
+![](SpringCloudAlibaba.assets/6bdaf6f18bd24f789acc601566df5ea8.png)
 
 #### 11.3.3 解压安装包，直接运行bin目录下的startup.cmd
 
-![](SpringCloudAlibaba.assets\4c3857eebb3040ccb9c761c3e0af36ad.png)
+![](SpringCloudAlibaba.assets/4c3857eebb3040ccb9c761c3e0af36ad.png)
 
 startup.cmd -m standalone
 
@@ -152,7 +152,7 @@ startup.cmd -m standalone
 
 #### 11.3.5 结果页面
 
-![](SpringCloudAlibaba.assets\29727a3e8fd8474a8803e2e273282fe0.png)
+![](SpringCloudAlibaba.assets/29727a3e8fd8474a8803e2e273282fe0.png)
 
 #### 11.3.6 关闭服务器
 
@@ -164,7 +164,7 @@ shutdown.cmd
 
 [Nacos 融合 Spring Cloud，成为注册配置中心](https://nacos.io/zh-cn/docs/v2/ecology/use-nacos-with-spring-cloud.html "Nacos 融合 Spring Cloud，成为注册配置中心")
 
-![](SpringCloudAlibaba.assets\199ae3db921f4df7bd605d87dc48bd85.png)
+![](SpringCloudAlibaba.assets/199ae3db921f4df7bd605d87dc48bd85.png)
 
 #### 11.4.2 SpringCloud Alibaba参考中文文档
 
@@ -267,7 +267,7 @@ spring:  
         server-addr: localhost:8848  # 配置 Nacos 地址
 ```
 
-![](SpringCloudAlibaba.assets\26bfe51070a54ac9b42f3f0bc2f2fc12.png)
+![](SpringCloudAlibaba.assets/26bfe51070a54ac9b42f3f0bc2f2fc12.png)
 
 ##### 11.4.3.4 主启动
 
@@ -319,7 +319,7 @@ public class PayAlibabaController
 
 **nacos控制台**
 
-![](SpringCloudAlibaba.assets\bc31b90f7d114447a413a4db5b007989.png)
+![](SpringCloudAlibaba.assets/bc31b90f7d114447a413a4db5b007989.png)
 
 [http://localhost:8848/nacos](http://localhost:8848/nacos "http://localhost:8848/nacos")
 
@@ -395,7 +395,7 @@ cloudalibaba-consumer-nacos-order83
 
 ##### 11.4.4.3 YML
 
-![](SpringCloudAlibaba.assets\f23e3950cf8f4b7981f2c9782153e37f.png)
+![](SpringCloudAlibaba.assets/f23e3950cf8f4b7981f2c9782153e37f.png)
 
 ```yaml
 server:  
@@ -490,7 +490,7 @@ public class OrderNacosController
 
 **nacos控制台**
 
-![](SpringCloudAlibaba.assets\75f036d8540b4e888a0c44739564d49b.png)
+![](SpringCloudAlibaba.assets/75f036d8540b4e888a0c44739564d49b.png)
 
 [http://localhost:83/consumer/pay/nacos/14](http://localhost:83/consumer/pay/nacos/14 "http://localhost:83/consumer/pay/nacos/14")
 
@@ -504,19 +504,19 @@ public class OrderNacosController
 
 **1**
 
-![](SpringCloudAlibaba.assets\d2f99c0ae84648c2aeccfee69e9afc9e.png)
+![](SpringCloudAlibaba.assets/d2f99c0ae84648c2aeccfee69e9afc9e.png)
 
 **2**
 
-![](SpringCloudAlibaba.assets\238003fedf964a8786827b79ecb7e005.png)
+![](SpringCloudAlibaba.assets/238003fedf964a8786827b79ecb7e005.png)
 
 \-DServer.port=9002
 
 **3**
 
-![](SpringCloudAlibaba.assets\9af7b8994a04404eb361e695a720dd1f.png)
+![](SpringCloudAlibaba.assets/9af7b8994a04404eb361e695a720dd1f.png)
 
-![](SpringCloudAlibaba.assets\6fb37b60b9894f5c9d34474295ff4a2f.png)
+![](SpringCloudAlibaba.assets/6fb37b60b9894f5c9d34474295ff4a2f.png)
 
 **测试**
 
@@ -536,7 +536,7 @@ public class OrderNacosController
 
 [Nacos 融合 Spring Cloud，成为注册配置中心](https://nacos.io/zh-cn/docs/v2/ecology/use-nacos-with-spring-cloud.html "Nacos 融合 Spring Cloud，成为注册配置中心")
 
-![](SpringCloudAlibaba.assets\be65fcf6189c43bc9a1963411bb4d772.png)
+![](SpringCloudAlibaba.assets/be65fcf6189c43bc9a1963411bb4d772.png)
 
 **SpringCloud Alibaba参考中文文档**
 
@@ -628,7 +628,7 @@ springboot中配置文件的加载是存在优先级顺序的，bootstrap优先�
 
 **bootstrap.yml**
 
-![](SpringCloudAlibaba.assets\34b26b96e9014477ae32a3d666c6519b.png)
+![](SpringCloudAlibaba.assets/34b26b96e9014477ae32a3d666c6519b.png)
 
 ```yaml
 # nacos 配置
@@ -712,7 +712,7 @@ public class NacosConfigClientController
 
 **@RefreshScope**
 
-![](SpringCloudAlibaba.assets\56b919fde40743a1bf0e1f1d6ad52e6f.png)
+![](SpringCloudAlibaba.assets/56b919fde40743a1bf0e1f1d6ad52e6f.png)
 
 ##### 11.5.3.6 在Nacos中添加配置信息(重点)
 
@@ -726,7 +726,7 @@ public class NacosConfigClientController
 
 [Nacos 融合 Spring Cloud，成为注册配置中心](https://nacos.io/zh-cn/docs/v2/ecology/use-nacos-with-spring-cloud.html "Nacos 融合 Spring Cloud，成为注册配置中心")
 
-![](SpringCloudAlibaba.assets\d0caf28a69814c118c0738e4ad841154.png)
+![](SpringCloudAlibaba.assets/d0caf28a69814c118c0738e4ad841154.png)
 
 ```
  最后公式：
@@ -748,13 +748,13 @@ ${spring.application.name}-${spring.profiles.active}.${spring.cloud.nacos.config
 
 **小总结说明**
 
-![](SpringCloudAlibaba.assets\02070f6f281f43bd844be2f33e917b31.png)
+![](SpringCloudAlibaba.assets/02070f6f281f43bd844be2f33e917b31.png)
 
 **案例步骤**
 
 **查看YML**
 
-![](SpringCloudAlibaba.assets\73b821eb56bc4e8a9e3a305279cd135d.png)
+![](SpringCloudAlibaba.assets/73b821eb56bc4e8a9e3a305279cd135d.png)
 
 ```
 #nacos端配置文件DataId的命名规则是：#${spring.application.name}-${spring.profile.active}.${spring.cloud.nacos.config.file-extension}
@@ -763,7 +763,7 @@ ${spring.application.name}-${spring.profiles.active}.${spring.cloud.nacos.config
 
 **创建配置**
 
-![](SpringCloudAlibaba.assets\1a44decc93b74d5ca037d11a54f087fa.png)
+![](SpringCloudAlibaba.assets/1a44decc93b74d5ca037d11a54f087fa.png)
 
 **配置DataId和对应文件**
 
@@ -771,13 +771,13 @@ Data ID：nacos-config-client-dev.yaml
 
 三码合一
 
-![](SpringCloudAlibaba.assets\750bc50ba00a4aa4a567e6c5ccaf9667.png)
+![](SpringCloudAlibaba.assets/750bc50ba00a4aa4a567e6c5ccaf9667.png)
 
 ##### 11.5.3.7 测试
 
 **启动Nacos且在nacos后台管理-配置列表下已经存在对应的yaml配置文件**
 
-![](SpringCloudAlibaba.assets\99605ce324da4d6da4e1783bfd119759.png)
+![](SpringCloudAlibaba.assets/99605ce324da4d6da4e1783bfd119759.png)
 
 **运行cloud-config-nacos-client3377的主启动类**
 
@@ -795,7 +795,7 @@ Nacos会记录配置文件的历史版本默认保留30天，此外还有一键�
 
 回滚：
 
-![](SpringCloudAlibaba.assets\ff2c5411a4174b0b96c10859c9a261a8.png)
+![](SpringCloudAlibaba.assets/ff2c5411a4174b0b96c10859c9a261a8.png)
 
 ### 11.6 Nacos数据模型之Namespace-Group-DataId
 
@@ -829,25 +829,25 @@ prod生产环境。
 
 #### 11.6.3 Namespace+Group+DataId三者关系？为什么这么设计？
 
-![](SpringCloudAlibaba.assets\a2258fb5093e4e6299f76469f5069157.png)
+![](SpringCloudAlibaba.assets/a2258fb5093e4e6299f76469f5069157.png)
 
 **三者说明**
 
-![](SpringCloudAlibaba.assets\497d0564f12a4551be17898c199d390c.png)
+![](SpringCloudAlibaba.assets/497d0564f12a4551be17898c199d390c.png)
 
 <table border="1" cellspacing="0" style="width:680px;"><tbody><tr><td style="background-color:#f3f4fa;border-color:#000000;vertical-align:top;"><div>1 是什么</div></td><td style="background-color:#f3f4fa;border-color:#000000;vertical-align:top;"><div>类似Java里面的package名和类名，最外层的Namespace是可以用于区分部署环境的，Group和DataID逻辑上区分两个目标对象</div></td></tr><tr><td style="background-color:#f3f4fa;border-color:#000000;vertical-align:top;"><div>2 默认值</div></td><td style="background-color:#f3f4fa;border-color:#000000;vertical-align:top;"><span style="color:#0000ff;">默认情况：Namespace=public，Group=DEFAULT_GROUP</span><div>Nacos默认的命名空间是public，Namespace主要用来实现隔离。比方说我们现在有三个环境：开发、测试、生产环境，我们就可以创建三个Namespace，不同的Namespace之间是隔离的。Group默认是DEFAULT_GROUP，Group可以把不同的微服务划分到同一个分组里面去</div></td></tr><tr><td style="background-color:#f3f4fa;border-color:#000000;vertical-align:top;"><div>Service就是微服务</div></td><td style="background-color:#f3f4fa;border-color:#000000;vertical-align:top;"><div>一个Service可以包含一个或者多个Cluster（集群），Nacos默认Cluster是DEFAULT，Cluster是对指定微服务的一个虚拟划分。见下一节：服务领域模型-补充说明</div></td></tr></tbody></table>
 
-![](SpringCloudAlibaba.assets\8be141477e15452eb5e72ba2b50821b0.png)
+![](SpringCloudAlibaba.assets/8be141477e15452eb5e72ba2b50821b0.png)
 
 #### 11.6.4 Nacos的图形化管理界面
 
 **命名空间Namespace**
 
-![](SpringCloudAlibaba.assets\3abe29f88ddf4e41a6bb149fe6cf20a7.png)
+![](SpringCloudAlibaba.assets/3abe29f88ddf4e41a6bb149fe6cf20a7.png)
 
 **配置管理**
 
-![](SpringCloudAlibaba.assets\93b8a5f459b64fbb85e37f848e7d4fbf.png)
+![](SpringCloudAlibaba.assets/93b8a5f459b64fbb85e37f848e7d4fbf.png)
 
 #### 11.6.5 三种方案加载配置
 
@@ -859,19 +859,19 @@ prod生产环境。
 
 **1 新建test配置DataID**
 
-![](SpringCloudAlibaba.assets\a6bb14c27ff643b997b461555092a3eb.png)
+![](SpringCloudAlibaba.assets/a6bb14c27ff643b997b461555092a3eb.png)
 
 nacos-config-client-test.yaml
 
 **2 nacos后台**
 
-![](SpringCloudAlibaba.assets\c4a62b9d389c4a02bbe6c2cc7fff2d87.png)
+![](SpringCloudAlibaba.assets/c4a62b9d389c4a02bbe6c2cc7fff2d87.png)
 
 **修改YML**
 
 **通过spring.profile.active属性就能进行多环境下配置文件的读取**
 
-![](SpringCloudAlibaba.assets\6ced1f069ec049e5bdd06ef1ee498d26.png)
+![](SpringCloudAlibaba.assets/6ced1f069ec049e5bdd06ef1ee498d26.png)
 
 **bootstrap.yml**
 
@@ -924,19 +924,19 @@ test
 
 **1 新建prod配置DataID**
 
-![](SpringCloudAlibaba.assets\f91981ed1528479e978cf5e22049f55b.png)
+![](SpringCloudAlibaba.assets/f91981ed1528479e978cf5e22049f55b.png)
 
 nacos-config-client-prod.yaml
 
 **2 新建Group**
 
-![](SpringCloudAlibaba.assets\1e394f5293ff4c96ac705dd7f3a6df7d.png)
+![](SpringCloudAlibaba.assets/1e394f5293ff4c96ac705dd7f3a6df7d.png)
 
 PROD\_GROUP
 
 **3 nacos后台**
 
-![](SpringCloudAlibaba.assets\d08eb6a6596142f2abb175ad4f147511.png)
+![](SpringCloudAlibaba.assets/d08eb6a6596142f2abb175ad4f147511.png)
 
 **修改YML**
 
@@ -986,7 +986,7 @@ prod
 
 prod 
 
-![](SpringCloudAlibaba.assets\7cce331548514dd8923a39f8ca52ce8e.png)
+![](SpringCloudAlibaba.assets/7cce331548514dd8923a39f8ca52ce8e.png)
 
 ##### 11.6.5.3 Namespace方案
 
@@ -994,17 +994,17 @@ prod
 
 **新建Namespace：Prod\_Namespace**
 
-![](SpringCloudAlibaba.assets\42be67c739934eccb2ad57161b239677.png)
+![](SpringCloudAlibaba.assets/42be67c739934eccb2ad57161b239677.png)
 
 **新建Namespace但命名空间ID不填(系统自动生成)：Prod2\_Namespace**
 
-![](SpringCloudAlibaba.assets\0ccb932a7aaf41e2b7da31834c0782d9.png)
+![](SpringCloudAlibaba.assets/0ccb932a7aaf41e2b7da31834c0782d9.png)
 
-![](SpringCloudAlibaba.assets\4ed475b8ebfd4bbd91aacc5f675194e5.png)
+![](SpringCloudAlibaba.assets/4ed475b8ebfd4bbd91aacc5f675194e5.png)
 
 **后台**
 
-![](SpringCloudAlibaba.assets\a9c7afe012544e5e874a01044cd0d8c2.png)
+![](SpringCloudAlibaba.assets/a9c7afe012544e5e874a01044cd0d8c2.png)
 
 **③Prod\_Namespace+PROD\_GROUP+DataID(nacos-config-client-prod.yaml)**
 
@@ -1012,11 +1012,11 @@ prod
 
 **1**
 
-![](SpringCloudAlibaba.assets\a95d89f35feb4b2a892bb6477d9c334d.png)
+![](SpringCloudAlibaba.assets/a95d89f35feb4b2a892bb6477d9c334d.png)
 
 **2**
 
-![](SpringCloudAlibaba.assets\6f914f42170442bda02b5ead9a087a22.png)
+![](SpringCloudAlibaba.assets/6f914f42170442bda02b5ead9a087a22.png)
 
 **命名空间**
 
@@ -1032,11 +1032,11 @@ PROD\_GROUP
 
 **效果**
 
-![](SpringCloudAlibaba.assets\9efec6cb84a24ff9a9901218ae999b8d.png)
+![](SpringCloudAlibaba.assets/9efec6cb84a24ff9a9901218ae999b8d.png)
 
 **后台**
 
-![](SpringCloudAlibaba.assets\3c138f7f4d1d437e8df90e9ddf7619f4.png)
+![](SpringCloudAlibaba.assets/3c138f7f4d1d437e8df90e9ddf7619f4.png)
 
 **修改YML**
 
@@ -1088,12 +1088,12 @@ prod
 
 prod
 
-![](SpringCloudAlibaba.assets\e4880c33b3354f938aadadd30d566e5a.png)
+![](SpringCloudAlibaba.assets/e4880c33b3354f938aadadd30d566e5a.png)
 
 12 SpringCloud Alibaba Sentinel实现熔断与限流
 --------------------------------------
 
-![1726560862762](SpringCloudAlibaba.assets\1726560862762.png)
+![1726560862762](SpringCloudAlibaba.assets/1726560862762.png)
 
 ### 12.1 Sentinel
 
@@ -1101,7 +1101,7 @@ prod
 
 [https://sentinelguard.io/zh-cn/](https://sentinelguard.io/zh-cn/ "https://sentinelguard.io/zh-cn/")
 
-![](SpringCloudAlibaba.assets\e3a5793d1b0a400ebe3c4a4dfbebe5e2.png)
+![](SpringCloudAlibaba.assets/e3a5793d1b0a400ebe3c4a4dfbebe5e2.png)
 
 **等价对标**
 
@@ -1109,9 +1109,9 @@ Spring Cloud Circuit Breaker
 
 #### 12.1.2 是什么
 
-![](SpringCloudAlibaba.assets\62ad9e7484344c728253139e2f9b47e2.png)
+![](SpringCloudAlibaba.assets/62ad9e7484344c728253139e2f9b47e2.png)
 
-![](SpringCloudAlibaba.assets\c238c0e8cde84653995688d61b926d04.png)
+![](SpringCloudAlibaba.assets/c238c0e8cde84653995688d61b926d04.png)
 
 [主页 · alibaba/Sentinel Wiki · GitHub](https://github.com/alibaba/Sentinel/wiki/%E4%B8%BB%E9%A1%B5 "主页 · alibaba/Sentinel Wiki · GitHub")
 
@@ -1133,7 +1133,7 @@ Spring Cloud Circuit Breaker
 
 Sentinel的主要特性
 
-![](SpringCloudAlibaba.assets\eb1bf2eaec15449f8d40e9bfc86296fd.png)
+![](SpringCloudAlibaba.assets/eb1bf2eaec15449f8d40e9bfc86296fd.png)
 
 **从流量路由、流量控制、流量整形、熔断降级、系统自适应过载保护、热点流量防护等多个维度来帮助开发者保障微服务的稳定性**
 
@@ -1151,7 +1151,7 @@ Sentinel的主要特性
 
 所以，通常当你发现一个模块下的某个实例失败后，这时候这个模块依然还会接收流量，然后这个有问题的模块还调用了其他的模块，这样就会发生级联故障，或者叫雪崩。复杂分布式体系结构中的应用程序有数十个依赖关系，每个依赖关系在某些时候将不可避免地失败。
 
-![](SpringCloudAlibaba.assets\68dab81279b248bbb2ad978cdc9f103d.png)
+![](SpringCloudAlibaba.assets/68dab81279b248bbb2ad978cdc9f103d.png)
 
 ##### 12.1.5.3 服务降级
 
@@ -1193,7 +1193,7 @@ Sentinel的主要特性
 
 #### 12.2.1 sentinel组件由2部分构成
 
-![](SpringCloudAlibaba.assets\5c5727c993b640b3a88118f8d53e75cc.png)
+![](SpringCloudAlibaba.assets/5c5727c993b640b3a88118f8d53e75cc.png)
 
 [介绍 · alibaba/Sentinel Wiki · GitHub](https://github.com/alibaba/Sentinel/wiki/%E4%BB%8B%E7%BB%8D "介绍 · alibaba/Sentinel Wiki · GitHub")
 
@@ -1209,7 +1209,7 @@ Sentinel的主要特性
 
 本次下载2023.11.27
 
-![](SpringCloudAlibaba.assets\af38be4c17404551b0c0c98385b4fbdd.png)
+![](SpringCloudAlibaba.assets/af38be4c17404551b0c0c98385b4fbdd.png)
 
 **下载到本地sentinel-dashboard-1.8.6.jar**
 
@@ -1231,7 +1231,7 @@ java -jar sentinel-dashboard-1.8.6.jar
 
 [http://localhost:8080](http://localhost:8080/ "http://localhost:8080")
 
-![](SpringCloudAlibaba.assets\8e4f098ac19843b0bbb2d793d9c364a1.png)
+![](SpringCloudAlibaba.assets/8e4f098ac19843b0bbb2d793d9c364a1.png)
 
 ### 12.3 微服务8401整合Sentinel入门案例
 
@@ -1407,7 +1407,7 @@ public class FlowLimitController
 
  **空空如也，啥都没有**
 
-![](SpringCloudAlibaba.assets\7649ae5a28b3437fb61ff7f14d855c23.png)
+![](SpringCloudAlibaba.assets/7649ae5a28b3437fb61ff7f14d855c23.png)
 
 **Sentinel采用的懒加载说明**
 
@@ -1423,19 +1423,19 @@ public class FlowLimitController
 
 **效果**
 
-![](SpringCloudAlibaba.assets\9884062a7b7a47a8bc858daec66348d4.png)
+![](SpringCloudAlibaba.assets/9884062a7b7a47a8bc858daec66348d4.png)
 
 ### 12.4 流控规则
 
 #### 12.4.1 基本介绍
 
-![](SpringCloudAlibaba.assets\b8c8d9236cd54752ba85398d70c44419.png)
+![](SpringCloudAlibaba.assets/b8c8d9236cd54752ba85398d70c44419.png)
 
 **概述**
 
 Sentinel能够对流量进行控制，主要是监控应用的QPS流量或者并发线程数等指标，如果达到指定的阈值时，就会被流量进行控制，以避免服务被瞬时的高并发流量击垮，保证服务的高可靠性。参数见最下方：
 
-![](SpringCloudAlibaba.assets\1fc5df348d8144c6aeb77c20701e0334.png)
+![](SpringCloudAlibaba.assets/1fc5df348d8144c6aeb77c20701e0334.png)
 
 | 资源名       | 资源的唯一名称，默认就是请求的接口路径，可以自行修改，但是要保证唯一。 |
 | :----------- | ------------------------------------------------------------ |
@@ -1446,7 +1446,7 @@ Sentinel能够对流量进行控制，主要是监控应用的QPS流量或者并
 
 #### 12.4.2 流控模式
 
-![](SpringCloudAlibaba.assets\3aeeb215916c44988c8866b44a323e37.png)
+![](SpringCloudAlibaba.assets/3aeeb215916c44988c8866b44a323e37.png)
 
 ##### 12.4.2.1 直接
 
@@ -1454,7 +1454,7 @@ Sentinel能够对流量进行控制，主要是监控应用的QPS流量或者并
 
 **配置及说明**
 
-![](SpringCloudAlibaba.assets\a3683aa9693a4da093549c387ae5cdeb.png)
+![](SpringCloudAlibaba.assets/a3683aa9693a4da093549c387ae5cdeb.png)
 
 **表示1秒钟内查询1次就是OK，若超过次数1，就直接-快速失败，报默认错误**
 
@@ -1492,7 +1492,7 @@ but,是否应该有我们自己的后续处理?
 
 当关联资源/testB的qps阀值超过1时，就限流/testA的Rest访问地址，当关联资源到阈值后限制配置好的资源名，B惹事，A挂了
 
-![](SpringCloudAlibaba.assets\556d7682f9f04745a5591e8489b2c9b9.png)
+![](SpringCloudAlibaba.assets/556d7682f9f04745a5591e8489b2c9b9.png)
 
 **Jmeter模拟并发密集访问testB**
 
@@ -1506,9 +1506,9 @@ Apache JMeter 5.6.2 (Requires Java 8+)
 
 **Run**
 
-![](SpringCloudAlibaba.assets\801c2d11133c4a76aa6a336b50504282.png)
+![](SpringCloudAlibaba.assets/801c2d11133c4a76aa6a336b50504282.png)
 
-![](SpringCloudAlibaba.assets\07c4ea7031a94fa5a965f5d9a2ca4d83.png)
+![](SpringCloudAlibaba.assets/07c4ea7031a94fa5a965f5d9a2ca4d83.png)
 
 **大批量线程高并发访问B，导致A失效了**
 
@@ -1619,7 +1619,7 @@ public class FlowLimitController
 
 <table border="1" cellspacing="0"><tbody><tr><td style="background-color:#f3f4fa;border-color:#000000;vertical-align:top;"><div>说明：C和D两个请求都访问 <span style="color:#ff0000;"><strong>flowLimitService</strong>.common()方法，对C限流，对D不管</span></div></td></tr></tbody></table>
 
-![](SpringCloudAlibaba.assets\650da2fda7464134bddf946685ddbe31.png)
+![](SpringCloudAlibaba.assets/650da2fda7464134bddf946685ddbe31.png)
 
 **测试**
 
@@ -1627,7 +1627,7 @@ public class FlowLimitController
 
 **C链路**
 
-![](SpringCloudAlibaba.assets\8432fde23e0f4f0186b779592f47e90f.png)
+![](SpringCloudAlibaba.assets/8432fde23e0f4f0186b779592f47e90f.png)
 
 超过一秒钟一次后，就发生限流
 
@@ -1635,7 +1635,7 @@ public class FlowLimitController
 
 #### 12.4.3 流控效果
 
-![](SpringCloudAlibaba.assets\04db86a570f24d098238585f19b69e58.png)
+![](SpringCloudAlibaba.assets/04db86a570f24d098238585f19b69e58.png)
 
 ##### 12.4.3.1 直接 →  快速失败(默认的流控处理)
 
@@ -1651,7 +1651,7 @@ Blocked by Sentinel (flow limiting)
 
 **说明**
 
-![](SpringCloudAlibaba.assets\edcacc83e3d34893879edfe5b2464b8a.png)
+![](SpringCloudAlibaba.assets/edcacc83e3d34893879edfe5b2464b8a.png)
 
 **说明**
 
@@ -1661,17 +1661,17 @@ Blocked by Sentinel (flow limiting)
 
 https://github.com/alibaba/Sentinel/wiki/%E6%B5%81%E9%87%8F%E6%8E%A7%E5%88%B6
 
-![](SpringCloudAlibaba.assets\e24393016f59409ca8d89f28551345d1.png)
+![](SpringCloudAlibaba.assets/e24393016f59409ca8d89f28551345d1.png)
 
-![](SpringCloudAlibaba.assets\ff6ad1c2a2cf48c0ae54afc11203736a.png)
+![](SpringCloudAlibaba.assets/ff6ad1c2a2cf48c0ae54afc11203736a.png)
 
 **源码**
 
 com.alibaba.csp.sentinel.slots.block.flow.controller.WarmUpController
 
-![](SpringCloudAlibaba.assets\9dda30717fe44da1a470967f92d098a4.png)
+![](SpringCloudAlibaba.assets/9dda30717fe44da1a470967f92d098a4.png)
 
-![](SpringCloudAlibaba.assets\78982a2ee6004278bf348a5fb1d49040.png)
+![](SpringCloudAlibaba.assets/78982a2ee6004278bf348a5fb1d49040.png)
 
 **WarmUp配置**
 
@@ -1681,7 +1681,7 @@ com.alibaba.csp.sentinel.slots.block.flow.controller.WarmUpController
 >
 > 单机阈值为10，预热时长设置5秒。系统初始化的阈值为10 / 3 约等于3,即单机阈值刚开始为3(我们人工设定单机阈值是10，sentinel计算后QPS判定为3开始)；然后过了5秒后阀值才慢慢升高恢复到设置的单机阈值10，也就是说5秒钟内QPS为3，过了保护期5秒后QPS为10
 
-![](SpringCloudAlibaba.assets\9e34269edfde4272a893277ea7a3a074.png)
+![](SpringCloudAlibaba.assets/9e34269edfde4272a893277ea7a3a074.png)
 
 **多次点击http://localhost:8401/testB**
 
@@ -1695,7 +1695,7 @@ com.alibaba.csp.sentinel.slots.block.flow.controller.WarmUpController
 
 **是什么**
 
-![](SpringCloudAlibaba.assets\2a4657d5f26140699dc665011b20e31b.png)
+![](SpringCloudAlibaba.assets/2a4657d5f26140699dc665011b20e31b.png)
 
 **修改FlowLimitController**
 
@@ -1716,23 +1716,23 @@ public String testE()
 
 **Jmeter：**
 
-**![](SpringCloudAlibaba.assets\49d0a6e509f4490aa4d9b3100bd59b97.png)**
+**![](SpringCloudAlibaba.assets/49d0a6e509f4490aa4d9b3100bd59b97.png)**
 
 **sentinel配置**
 
 按照单机阈值，一秒钟通过一个请求，10秒后的请求作为超时处理，放弃
 
-![](SpringCloudAlibaba.assets\6812f1141f5d4993a0457e17394a9907.png)![](SpringCloudAlibaba.assets\72c78cc0e4644d048d7039fb3f5d4b17.png)
+![](SpringCloudAlibaba.assets/6812f1141f5d4993a0457e17394a9907.png)![](SpringCloudAlibaba.assets/72c78cc0e4644d048d7039fb3f5d4b17.png)
 
 #### 12.4.4 流控效果V2(并发线程数)
 
 **sentinel配置**
 
-![](SpringCloudAlibaba.assets\0a0f41d1ef16431bbbdb5890fe2985b7.png)
+![](SpringCloudAlibaba.assets/0a0f41d1ef16431bbbdb5890fe2985b7.png)
 
 **Jmeter模拟多个线程并发+循环请求**
 
-![](SpringCloudAlibaba.assets\c2df595caaf646cf850cd289a9293f71.png)
+![](SpringCloudAlibaba.assets/c2df595caaf646cf850cd289a9293f71.png)
 
 [http://localhost:8401/testB](http://localhost:8401/testB "http://localhost:8401/testB")
 
@@ -1750,13 +1750,13 @@ Sentinel 熔断降级会在调用链路中某个资源出现不稳定状态时�
 
 让请求快速失败，避免影响到其它的资源而导致级联错误。当资源被降级后，在接下来的降级时间窗口之内，对该资源的调用都自动熔断（默认行为是抛出 DegradeException）。
 
-![](SpringCloudAlibaba.assets\190297eb8a49407bb482c5684ae1a61b.png)
+![](SpringCloudAlibaba.assets/190297eb8a49407bb482c5684ae1a61b.png)
 
 **官网说明** 
 
 **Sentinel主要提供了三个熔断策略**
 
-![](SpringCloudAlibaba.assets\ee87a24b5dd647679bfb9a401f30a93c.png)
+![](SpringCloudAlibaba.assets/ee87a24b5dd647679bfb9a401f30a93c.png)
 
 #### 12.5.3 新增熔断规则实战
 
@@ -1764,17 +1764,17 @@ Sentinel 熔断降级会在调用链路中某个资源出现不稳定状态时�
 
 **是什么**
 
-![](SpringCloudAlibaba.assets\763340f7e1914ef38cbbf5f6626a9fb2.png)
+![](SpringCloudAlibaba.assets/763340f7e1914ef38cbbf5f6626a9fb2.png)
 
-![](SpringCloudAlibaba.assets\390e0e2d57fa496c846a2f69ce24019a.png)
+![](SpringCloudAlibaba.assets/390e0e2d57fa496c846a2f69ce24019a.png)
 
-![](SpringCloudAlibaba.assets\5ff3572b8e6a47309eb7246943c6314a.png)
+![](SpringCloudAlibaba.assets/5ff3572b8e6a47309eb7246943c6314a.png)
 
 **名词解释**
 
 进入熔断状态判断依据：在统计时长内，实际请求数目＞设定的最小请求数    且      实际慢调用比例＞比例阈值 ，进入熔断状态。
 
-![](SpringCloudAlibaba.assets\6099a2834f2f4a7f8073b88938f5c711.png)
+![](SpringCloudAlibaba.assets/6099a2834f2f4a7f8073b88938f5c711.png)
 
 1.调用：一个请求发送到服务器，服务器给与响应，一个响应就是一个调用。
 
@@ -1794,7 +1794,7 @@ Sentinel 熔断降级会在调用链路中某个资源出现不稳定状态时�
 
 进入熔断状态判断依据：在统计时长内，实际请求数目＞设定的最小请求数    且      实际慢调用比例＞比例阈值 ，进入熔断状态。
 
-![](SpringCloudAlibaba.assets\4e3d5bccc3cf497eb9b446d8cbe01389.png)
+![](SpringCloudAlibaba.assets/4e3d5bccc3cf497eb9b446d8cbe01389.png)
 
 1熔断状态(保险丝跳闸断电，不可访问)：在接下来的熔断时长内请求会自动被熔断
 
@@ -1827,15 +1827,15 @@ public String testF()
 
 进入熔断状态判断依据：在统计时长内，实际请求数目＞设定的最小请求数    且      实际慢调用比例＞比例阈值 ，进入熔断状态。 
 
-![](SpringCloudAlibaba.assets\45abbfdf24254411984004f1ef9f4957.png)
+![](SpringCloudAlibaba.assets/45abbfdf24254411984004f1ef9f4957.png)
 
 **jmeter压测**
 
-![](SpringCloudAlibaba.assets\7be2962ba7d84c379cad3504d43771de.png)
+![](SpringCloudAlibaba.assets/7be2962ba7d84c379cad3504d43771de.png)
 
 **结论**
 
-![](SpringCloudAlibaba.assets\5fcd4270e273433f908d24510a21223f.png)
+![](SpringCloudAlibaba.assets/5fcd4270e273433f908d24510a21223f.png)
 
  按照上述配置，熔断触发：
 
@@ -1849,11 +1849,11 @@ public String testF()
 
 **是什么**
 
-![](SpringCloudAlibaba.assets\49b2af88b3c74e75927aeaf4dd499d82.png)
+![](SpringCloudAlibaba.assets/49b2af88b3c74e75927aeaf4dd499d82.png)
 
-![](SpringCloudAlibaba.assets\a4dd8f80be624cba8cbd26af0b1bd247.png)
+![](SpringCloudAlibaba.assets/a4dd8f80be624cba8cbd26af0b1bd247.png)
 
-![](SpringCloudAlibaba.assets\46f13d7fe3a34555b07fe8dea7d82512.png)
+![](SpringCloudAlibaba.assets/46f13d7fe3a34555b07fe8dea7d82512.png)
 
 Blocked by Sentinel (flow limiting)
 
@@ -1881,37 +1881,37 @@ public String testG()
 
 配置Sentinel，对于int age=10/0，如符合如下异常比例启动熔断，页面报【Blocked by Sentinel (flow limiting)】
 
-![](SpringCloudAlibaba.assets\d92f0b9aaf4345b4b3317a5d18fb3235.png)
+![](SpringCloudAlibaba.assets/d92f0b9aaf4345b4b3317a5d18fb3235.png)
 
 **jmeter**
 
-![](SpringCloudAlibaba.assets\942737c3f49446908564758bdad34480.png)
+![](SpringCloudAlibaba.assets/942737c3f49446908564758bdad34480.png)
 
 **结论**
 
 按照上述配置，单独访问一次，必然来一次报错一次(int age  = 10/0)达到100%，调一次错一次报错error；
 
-![](SpringCloudAlibaba.assets\1e8ee29f954d45b7a68584086789316c.png)
+![](SpringCloudAlibaba.assets/1e8ee29f954d45b7a68584086789316c.png)
 
 开启jmeter后，直接高并发发送请求，多次调用达到我们的配置条件了。
 
-![](SpringCloudAlibaba.assets\8905acb3cae74c269cbc0205b08deeaa.png)
+![](SpringCloudAlibaba.assets/8905acb3cae74c269cbc0205b08deeaa.png)
 
 断路器开启(保险丝跳闸)，微服务不可用了，不再报错error而是服务熔断+服务降级，出提示
 
 Blocked by Sentinel (flow limiting)。
 
-![](SpringCloudAlibaba.assets\dd1b930d6d3c40c5ba66a055183a87ad.png)
+![](SpringCloudAlibaba.assets/dd1b930d6d3c40c5ba66a055183a87ad.png)
 
 ##### 12.5.3.3 异常数
 
 **是什么**
 
-![](SpringCloudAlibaba.assets\f26ea2a93fd246fd937bd8b25775c51c.png)
+![](SpringCloudAlibaba.assets/f26ea2a93fd246fd937bd8b25775c51c.png)
 
-![](SpringCloudAlibaba.assets\f4de54affec4478ab01b9180dfa3ad8f.png)
+![](SpringCloudAlibaba.assets/f4de54affec4478ab01b9180dfa3ad8f.png)
 
-![](SpringCloudAlibaba.assets\a525961541284622b4d5b9e06af9a90f.png)
+![](SpringCloudAlibaba.assets/a525961541284622b4d5b9e06af9a90f.png)
 
 **测试**
 
@@ -1933,25 +1933,25 @@ public String testH()
 
 **配置**
 
-![](SpringCloudAlibaba.assets\e5d5b03b9d6c45eca70615beb02db207.png)
+![](SpringCloudAlibaba.assets/e5d5b03b9d6c45eca70615beb02db207.png)
 
 **jmeter**
 
-![](SpringCloudAlibaba.assets\368b6418fdba45e8913bfa2597aea12e.png)
+![](SpringCloudAlibaba.assets/368b6418fdba45e8913bfa2597aea12e.png)
 
 **结论**
 
 http://localhost:8401/testH，第一次访问绝对报错，因为除数不能为零，我们看到error窗口；
 
-![](SpringCloudAlibaba.assets\f5a53ea160204fb6a4c16af9dde10e58.png)
+![](SpringCloudAlibaba.assets/f5a53ea160204fb6a4c16af9dde10e58.png)
 
 开启jmeter后，直接高并发干爆他发送请求，多次调用达到我们的配置条件了。
 
-![](SpringCloudAlibaba.assets\30bf2c8bca6e4cb893bf03a2db8899d7.png)
+![](SpringCloudAlibaba.assets/30bf2c8bca6e4cb893bf03a2db8899d7.png)
 
  但是jmeter开工，上述配置表示，在1秒钟内最少请求2次，当异常数大于1时，会触发熔断操作断路器开启(保险丝跳闸)，微服务不可用了，熔断的时长为5秒，不再报错error而是服务降级了出提示Blocked by Sentinel (flow limiting) 
 
-![](SpringCloudAlibaba.assets\82af80add30e4cafbe812079a958ddf6.png)
+![](SpringCloudAlibaba.assets/82af80add30e4cafbe812079a958ddf6.png)
 
 ### 12.6 @SentinelResource注解
 
@@ -2049,9 +2049,9 @@ public class RateLimitController
 
 **Sentinel控制台配置**
 
-![](SpringCloudAlibaba.assets\9b49428aab824e5bab61df45000f7998.png)
+![](SpringCloudAlibaba.assets/9b49428aab824e5bab61df45000f7998.png)
 
-![](SpringCloudAlibaba.assets\4012b03864b54994b1bb4d6fde17c843.png)
+![](SpringCloudAlibaba.assets/4012b03864b54994b1bb4d6fde17c843.png)
 
 **测试**
 
@@ -2061,7 +2061,7 @@ public class RateLimitController
 
 会返回Sentinel自带的限流处理结果，默认 
 
-![](SpringCloudAlibaba.assets\156cecf80d3c48a4bc87fc18c5c86473.png)
+![](SpringCloudAlibaba.assets/156cecf80d3c48a4bc87fc18c5c86473.png)
 
 #### 12.6.5 ②按SentinelResource资源名称限流+自定义限流返回
 
@@ -2111,11 +2111,11 @@ public class RateLimitController
 
 **配置步骤**
 
-![](SpringCloudAlibaba.assets\ce683322a2d44befa748b00a6b13413a.png)
+![](SpringCloudAlibaba.assets/ce683322a2d44befa748b00a6b13413a.png)
 
 **图形配置和代码关系**
 
-![](SpringCloudAlibaba.assets\2c72c4115837468ba799f41bcbc8feda.png)
+![](SpringCloudAlibaba.assets/2c72c4115837468ba799f41bcbc8feda.png)
 
 **测试**
 
@@ -2125,11 +2125,11 @@ public class RateLimitController
 
 **sentinel默认**
 
-![](SpringCloudAlibaba.assets\c8bd8bdf492543dfb8ff9edcf97a29f0.png)
+![](SpringCloudAlibaba.assets/c8bd8bdf492543dfb8ff9edcf97a29f0.png)
 
 **自定义限流提示**
 
-![](SpringCloudAlibaba.assets\f414c991efc24dafb4c3b7d4ef2115fc.png)
+![](SpringCloudAlibaba.assets/f414c991efc24dafb4c3b7d4ef2115fc.png)
 
 #### 12.6.6 ③按SentinelResource资源名称限流+自定义限流返回+服务降级处理
 
@@ -2199,7 +2199,7 @@ public class RateLimitController
 
 **图形配置和代码关系**
 
-![](SpringCloudAlibaba.assets\eaa4c984e32d48baaccd1075bc1fa52a.png)
+![](SpringCloudAlibaba.assets/eaa4c984e32d48baaccd1075bc1fa52a.png)
 
 **表示1秒钟内查询次数大于1，就跑到我们自定义的处流，限流**
 
@@ -2233,7 +2233,7 @@ fallback，程序异常了JVM抛出的异常服务降级
 
 热点即经常访问的数据，很多时候我们希望统计或者限制某个热点数据中访问频次最高的TopN数据，并对其访问进行限流或者其它操作
 
-![](SpringCloudAlibaba.assets\e3f3eae2706c426fa4d36033db227f83.png)
+![](SpringCloudAlibaba.assets/e3f3eae2706c426fa4d36033db227f83.png)
 
 #### 12.7.2 官网
 
@@ -2259,7 +2259,7 @@ sentinel系统默认的提示：Blocked by Sentinel (flow limiting)
 
 #### 12.7.4 配置
 
-![](SpringCloudAlibaba.assets\f2a75ee97c344e1cb4785cfab39bd0c9.png)
+![](SpringCloudAlibaba.assets/f2a75ee97c344e1cb4785cfab39bd0c9.png)
 
 限流模式只支持QPS模式，固定写死了。（这才叫热点）
 
@@ -2311,9 +2311,9 @@ sentinel系统默认的提示：Blocked by Sentinel (flow limiting)
 
 **配置**
 
-![](SpringCloudAlibaba.assets\53bfe3cc0a1e4651ad14a1158c8e89f2.png)
+![](SpringCloudAlibaba.assets/53bfe3cc0a1e4651ad14a1158c8e89f2.png)
 
-![](SpringCloudAlibaba.assets\148247b263654b319dab180b4d6ca6a2.png)
+![](SpringCloudAlibaba.assets/148247b263654b319dab180b4d6ca6a2.png)
 
 添加按钮不能忘
 
@@ -2403,7 +2403,7 @@ public class MyRequestOriginParser implements RequestOriginParser
 
 #### 12.8.4 配置
 
-![](SpringCloudAlibaba.assets\77534c4d8c2a4dea9bc4254389e5641e.png)
+![](SpringCloudAlibaba.assets/77534c4d8c2a4dea9bc4254389e5641e.png)
 
 #### 12.8.5 测试
 
@@ -2579,15 +2579,15 @@ spring:
 
 **源代码**
 
-![](SpringCloudAlibaba.assets\e0d007e07ac2441695a3cb279debc332.png)
+![](SpringCloudAlibaba.assets/e0d007e07ac2441695a3cb279debc332.png)
 
 **进一步说明**
 
-![](SpringCloudAlibaba.assets\f147c76a5ada4c9f85abb5b5521305ab.png)
+![](SpringCloudAlibaba.assets/f147c76a5ada4c9f85abb5b5521305ab.png)
 
 ##### 12.9.3.4 添加Nacos业务规则配置
 
-![](SpringCloudAlibaba.assets\a485073384d54f40af7ddb5e4dedf955.png)
+![](SpringCloudAlibaba.assets/a485073384d54f40af7ddb5e4dedf955.png)
 
 **内容解析**
 
@@ -2629,15 +2629,15 @@ spring:
 
 **启动8401后****刷新sentinel****发现业务规则有了**
 
-![](SpringCloudAlibaba.assets\9587f9563a1d465891034994f7fafa6e.png)
+![](SpringCloudAlibaba.assets/9587f9563a1d465891034994f7fafa6e.png)
 
 **默认**
 
-![](SpringCloudAlibaba.assets\cfa42c18c1304c17915a25e805488914.png)
+![](SpringCloudAlibaba.assets/cfa42c18c1304c17915a25e805488914.png)
 
 ##### 12.9.3.6 停止8401再看sentinel
 
-![](SpringCloudAlibaba.assets\0dfbf0d8b37145299591629d1ee1bc02.png)
+![](SpringCloudAlibaba.assets/0dfbf0d8b37145299591629d1ee1bc02.png)
 
 ##### 12.9.3.7 重新启动8401再看sentinel
 
@@ -2677,11 +2677,11 @@ cloudalibaba-consumer-nacos-order83   通过OpenFeign调用    cloudalibaba-prov
 
 **前述参考**
 
-![](SpringCloudAlibaba.assets\4535c4fe054648599f57da676d1e0435.png)
+![](SpringCloudAlibaba.assets/4535c4fe054648599f57da676d1e0435.png)
 
 **本例说明**
 
-![](SpringCloudAlibaba.assets\a59a117f890449c9beaea43543d2edc1.png)
+![](SpringCloudAlibaba.assets/a59a117f890449c9beaea43543d2edc1.png)
 
 #### 12.10.3 编码步骤
 
@@ -3181,7 +3181,7 @@ public class OrderNacosController
 
 **故障现象**
 
-![](SpringCloudAlibaba.assets\4570d36eb7344cb78006e60aca7bc773.png)
+![](SpringCloudAlibaba.assets/4570d36eb7344cb78006e60aca7bc773.png)
 
 **导致原因**
 
@@ -3197,7 +3197,7 @@ springboot+springcloud版本太高导致和阿里巴巴Sentinel不兼容
 上面的配置暂时为本案例注释掉，版本降级一下。讲解完后请恢复上述高版本保持前后配置一致， 请用下面的版本替代上述<spring.boot.version>3.0.9</spring.boot.version><spring.cloud.version>2022.0.2</spring.cloud.version>
 ```
 
-![](SpringCloudAlibaba.assets\dd4fa99006b2482684a260525b4d69c6.png)
+![](SpringCloudAlibaba.assets/dd4fa99006b2482684a260525b4d69c6.png)
 
 **启动83微服务，第2次**
 
@@ -3211,17 +3211,17 @@ springboot+springcloud版本太高导致和阿里巴巴Sentinel不兼容
 
 [http://localhost:83/consumer/pay/nacos/get/1024](http://localhost:83/consumer/pay/nacos/get/1024 "http://localhost:83/consumer/pay/nacos/get/1024")
 
-![](SpringCloudAlibaba.assets\2406b82698524a1caf1d6eb9a4861be2.png)
+![](SpringCloudAlibaba.assets/2406b82698524a1caf1d6eb9a4861be2.png)
 
 **sentinel流控为例，进行配置**
 
-![](SpringCloudAlibaba.assets\c2626cfcf0b04bd7baeecd6a94aa883f.png)
+![](SpringCloudAlibaba.assets/c2626cfcf0b04bd7baeecd6a94aa883f.png)
 
 [http://localhost:83/consumer/pay/nacos/get/1024](http://localhost:83/consumer/pay/nacos/get/1024 "http://localhost:83/consumer/pay/nacos/get/1024")
 
 频繁访问后触发了Sentinel的流控规则，blockHandler起效
 
-![](SpringCloudAlibaba.assets\843e10419d354237b32d6b7fc19bd9bb.png)
+![](SpringCloudAlibaba.assets/843e10419d354237b32d6b7fc19bd9bb.png)
 
 **9001宕机了，83通过feign调用**
 
@@ -3229,7 +3229,7 @@ springboot+springcloud版本太高导致和阿里巴巴Sentinel不兼容
 
 **降级效果**
 
-![](SpringCloudAlibaba.assets\65d91b312e084712972cd33464552ee8.png)
+![](SpringCloudAlibaba.assets/65d91b312e084712972cd33464552ee8.png)
 
 **最后一步**
 
@@ -3357,9 +3357,9 @@ public class Main9528
 
 **参考官网配置说明案例改写**
 
-![](SpringCloudAlibaba.assets\4e360a5941f446519376cea6b527c3ab.png)
+![](SpringCloudAlibaba.assets/4e360a5941f446519376cea6b527c3ab.png)
 
-![](SpringCloudAlibaba.assets\1cf3cfcc55ef4a649e02e66d74d53a6d.png)
+![](SpringCloudAlibaba.assets/1cf3cfcc55ef4a649e02e66d74d53a6d.png)
 
 [网关限流 · alibaba/Sentinel Wiki · GitHub](https://github.com/alibaba/Sentinel/wiki/%E7%BD%91%E5%85%B3%E9%99%90%E6%B5%81#spring-cloud-gateway "网关限流 · alibaba/Sentinel Wiki · GitHub")
 
@@ -3465,12 +3465,12 @@ public class GatewayConfiguration {
 
 **sentinel+gateway：加快点击频率，出现限流容错**
 
-![](SpringCloudAlibaba.assets\344e7ee759ad4641a0c3b4d617d4bd02.png)
+![](SpringCloudAlibaba.assets/344e7ee759ad4641a0c3b4d617d4bd02.png)
 
 13 SpringCloud Alibaba Seata处理分布式事务
 -----------------------------------
 
-![1726560862762](SpringCloudAlibaba.assets\1726560862762.png)
+![1726560862762](SpringCloudAlibaba.assets/1726560862762.png)
 
 ### 13.1 面试题
 
@@ -3478,7 +3478,7 @@ public class GatewayConfiguration {
 
 在订单支付成功后，交易中心会调用订单中心的服务把订单状态更新，并调用物流中心的服务通知商品发货，同时还要调用积分中心的服务为用户增加相应的积分。如何保障分布式事务一致性，成为了确保订单业务稳定运行的核心诉求之一。
 
-![](SpringCloudAlibaba.assets\90706be5deed4f01be0a64be116ba33d.png)
+![](SpringCloudAlibaba.assets/90706be5deed4f01be0a64be116ba33d.png)
 
 #### 13.1.2 我若拿出如下场景，阁下将如何应对？
 
@@ -3542,7 +3542,7 @@ but
 
 此时每个服务自己内部的数据一致性由本地事务来保证，但是全局的数据一致性问题没法保证。
 
-![](SpringCloudAlibaba.assets\0fbd710ddc704c4cb143338375a54669.png)
+![](SpringCloudAlibaba.assets/0fbd710ddc704c4cb143338375a54669.png)
 
 **结论**
 
@@ -3558,7 +3558,7 @@ Simple Extensible Autonomous Transaction Architecture
 
 **官网解释**
 
-![](SpringCloudAlibaba.assets\4699d31f784d459f8826b35ac90d7c6b.png)
+![](SpringCloudAlibaba.assets/4699d31f784d459f8826b35ac90d7c6b.png)
 
 **Seata的发展历程**
 
@@ -3598,13 +3598,13 @@ Seata是一款开源的分布式事务解决方案，致力于在微服务架构
 
 **(TC****→****TM****→****RM)****分别什么意思**
 
-![](SpringCloudAlibaba.assets\c9d87abc4cfe4d3a8b39cfbd6e2f9446.png)
+![](SpringCloudAlibaba.assets/c9d87abc4cfe4d3a8b39cfbd6e2f9446.png)
 
 ### 13.4 Seata工作流程简介
 
 #### 13.4.1 纵观整个分布式事务的管理，就是全局事务ID的传递和变更，要让开发者无感知
 
-![](SpringCloudAlibaba.assets\325b6d37eecb4f0a9916f53f3007eded.png)
+![](SpringCloudAlibaba.assets/325b6d37eecb4f0a9916f53f3007eded.png)
 
 #### 13.4.2 Seata对分布式事务的协调和控制就是1+3
 
@@ -3614,11 +3614,11 @@ XID是全局事务的唯一标识，它可以在服务的调用链路中传递�
 
 **官网版3个概念(TC→TM→RM)**
 
-![](SpringCloudAlibaba.assets\91f5ab8ce2624981bac72a01fee60f7d.png)
+![](SpringCloudAlibaba.assets/91f5ab8ce2624981bac72a01fee60f7d.png)
 
 **阳哥版3个概念(TC→TM→RM)**
 
-![](SpringCloudAlibaba.assets\4484639a205b4089b7f81d6fe07fb44a.png)
+![](SpringCloudAlibaba.assets/4484639a205b4089b7f81d6fe07fb44a.png)
 
 **TC（Transaction Coordinator）事务协调器**
 
@@ -3638,9 +3638,9 @@ XID是全局事务的唯一标识，它可以在服务的调用链路中传递�
 
 流程如下：
 
-![](SpringCloudAlibaba.assets\802b461f8af24632815357ea825c43bd.png)
+![](SpringCloudAlibaba.assets/802b461f8af24632815357ea825c43bd.png)
 
-![](SpringCloudAlibaba.assets\e676a3fb8f794b21a2d0760c9c81dde4.png)
+![](SpringCloudAlibaba.assets/e676a3fb8f794b21a2d0760c9c81dde4.png)
 
 1 TM向 TC 申请开启一个全局事务，全局事务创建成功并生成一个全局唯一的 XID；
 
@@ -3668,7 +3668,7 @@ XID是全局事务的唯一标识，它可以在服务的调用链路中传递�
 
 [https://github.com/seata/seata/releases/tag/v2.0.0](https://github.com/seata/seata/releases/tag/v2.0.0 "https://github.com/seata/seata/releases/tag/v2.0.0")
 
-![](SpringCloudAlibaba.assets\218d857f37ae4cbda83f86b7ed08336f.png)
+![](SpringCloudAlibaba.assets/218d857f37ae4cbda83f86b7ed08336f.png)
 
 #### **13.5.3 各种seata参数官网参考**
 
@@ -3676,7 +3676,7 @@ XID是全局事务的唯一标识，它可以在服务的调用链路中传递�
 
 #### 13.5.4 Seata新手部署指南
 
-![](SpringCloudAlibaba.assets\d06a8fcd547d4c8eba0a04b2af165004.png)
+![](SpringCloudAlibaba.assets/d06a8fcd547d4c8eba0a04b2af165004.png)
 
 #### 13.5.5 mysql8.0数据库里面建库+建表
 
@@ -3844,13 +3844,13 @@ INSERT INTO `distributed_lock` (lock_key, lock_value, expire) VALUES ('TxTimeout
 
 **结果**
 
-![](SpringCloudAlibaba.assets\50a86bbe17f9429388d1e9f78391068a.png)
+![](SpringCloudAlibaba.assets/50a86bbe17f9429388d1e9f78391068a.png)
 
 #### 13.5.6 更改配置
 
 **修改seata-server-2.0.0\\conf\\application.yml配置文件，记得先备份**
 
-![](SpringCloudAlibaba.assets\bf5921afb6304b738f761a7c2eeb6622.png)
+![](SpringCloudAlibaba.assets/bf5921afb6304b738f761a7c2eeb6622.png)
 
 **提前备份，备份，备份application.yml**
 
@@ -3956,11 +3956,11 @@ seata:
 
 [http://localhost:7091](http://localhost:7091/ "http://localhost:7091")
 
-![](SpringCloudAlibaba.assets\74745e8db95746b79a77a599947dccc1.png)
+![](SpringCloudAlibaba.assets/74745e8db95746b79a77a599947dccc1.png)
 
 **看看Nacos**
 
-![](SpringCloudAlibaba.assets\35411f17c8194f929c15df021a0e559b.png)
+![](SpringCloudAlibaba.assets/35411f17c8194f929c15df021a0e559b.png)
 
 ### 13.6 Seata案例实战-数据库和表准备
 
@@ -3982,9 +3982,9 @@ seata:
 
  _下订单 → 减库存  → 扣余额  → 改(订单)状态_
 
-![](SpringCloudAlibaba.assets\1e6a05edb5c34ea19493eb8216211db7.png)
+![](SpringCloudAlibaba.assets/1e6a05edb5c34ea19493eb8216211db7.png)
 
-![](SpringCloudAlibaba.assets\b8d759103a78489bbc78457a2b2b52f0.png)
+![](SpringCloudAlibaba.assets/b8d759103a78489bbc78457a2b2b52f0.png)
 
 #### 13.6.2 创建3个业务数据库DATABASE
 
@@ -4029,7 +4029,7 @@ CREATE TABLE IF NOT EXISTS `undo_log`(   
 ALTER TABLE `undo_log` ADD INDEX `ix_log_created` (`log_created`);
 ```
 
-![](SpringCloudAlibaba.assets\24f824802d984bdda6fd19e081ff767d.png)
+![](SpringCloudAlibaba.assets/24f824802d984bdda6fd19e081ff767d.png)
 
 #### 13.6.4 按照上述3库分别建对应业务表
 
@@ -4270,7 +4270,7 @@ ALTER TABLE `undo_log` ADD INDEX `ix_log_created` (`log_created`);
 
 #### 13.6.6 最终效果
 
-![](SpringCloudAlibaba.assets\795fd5e813d147fcbb461181c92f48f6.png)
+![](SpringCloudAlibaba.assets/795fd5e813d147fcbb461181c92f48f6.png)
 
 ### 13.7 Seata案例实战-微服务编码落地实现
 
@@ -4593,19 +4593,19 @@ logging:
 
 **Namespace+Group+DataId三者关系？ 为什么这么设计？**
 
-![](SpringCloudAlibaba.assets\dec509db76974570918eb5d5d0b4ba0d.png)
+![](SpringCloudAlibaba.assets/dec509db76974570918eb5d5d0b4ba0d.png)
 
 **对应说明**
 
-![](SpringCloudAlibaba.assets\12727a2d13a748ec96c2a42f8c367b8b.png)
+![](SpringCloudAlibaba.assets/12727a2d13a748ec96c2a42f8c367b8b.png)
 
 上图落地的对应源码(笔记最下面还有)：io.seata.spring.boot.autoconfigure.properties.client.ServiceProperties
 
-![](SpringCloudAlibaba.assets\582411bcec1f46d5b48b415a4924b0a7.png)
+![](SpringCloudAlibaba.assets/582411bcec1f46d5b48b415a4924b0a7.png)
 
 上图落地的对应源码：io.seata.common.DefaultValues
 
-![](SpringCloudAlibaba.assets\3ae375f880d142e7b56e5bc50c26a96f.png)
+![](SpringCloudAlibaba.assets/3ae375f880d142e7b56e5bc50c26a96f.png)
 
 **详细过度版(了解即可，太详细也不好维护)**
 
@@ -6008,15 +6008,15 @@ public class AccountController {
 
 SELECT \*  FROM  \`seata\_order\`.\`t\_order\`
 
-![](SpringCloudAlibaba.assets\6d6315d53e124426a6b448b332dbf5b1.png)
+![](SpringCloudAlibaba.assets/6d6315d53e124426a6b448b332dbf5b1.png)
 
 SELECT \* FROM \`seata\_storage\`.\`t\_storage\`
 
-![](SpringCloudAlibaba.assets\613b363abc0c44c885533bd2f5365298.png)
+![](SpringCloudAlibaba.assets/613b363abc0c44c885533bd2f5365298.png)
 
 SELECT \*  FROM  \`seata\_account\`.\`t\_account\`;
 
-![](SpringCloudAlibaba.assets\bf5cda2ae5424e828a046176f205a28e.png)
+![](SpringCloudAlibaba.assets/bf5cda2ae5424e828a046176f205a28e.png)
 
 #### 13.8.3 正常下单
 
@@ -6032,9 +6032,9 @@ SELECT \*  FROM  \`seata\_account\`.\`t\_account\`;
 
 **故障现象**
 
-![](SpringCloudAlibaba.assets\9c65ce95f23e4c768b020c7723b21c8f.png)
+![](SpringCloudAlibaba.assets/9c65ce95f23e4c768b020c7723b21c8f.png)
 
-![](SpringCloudAlibaba.assets\e1478c81d32d49cea3ad51c8823ffe95.png)
+![](SpringCloudAlibaba.assets/e1478c81d32d49cea3ad51c8823ffe95.png)
 
 **导致原因**
 
@@ -6055,21 +6055,21 @@ springboot+springcloud版本太高导致和阿里巴巴Seata不兼容
 <!-- 仅为了整合 openfeign + alibaba seata 的案例，降低版本处理下 --><spring.boot.version>3.1.7</spring.boot.version><spring.cloud.version>2022.0.4</spring.cloud.version>
 ```
 
-![](SpringCloudAlibaba.assets\ca03b0bba6c248cb943612a563c6fd02.png)
+![](SpringCloudAlibaba.assets/ca03b0bba6c248cb943612a563c6fd02.png)
 
 **正常下单，第2次**
 
 **✔O(∩\_∩)O**
 
-![](SpringCloudAlibaba.assets\0efbe4cb29124ecebc35f2f501833813.png)
+![](SpringCloudAlibaba.assets/0efbe4cb29124ecebc35f2f501833813.png)
 
 **数据库情况**
 
-![](SpringCloudAlibaba.assets\236712efae774295aca8cc1c02b57dea.png)
+![](SpringCloudAlibaba.assets/236712efae774295aca8cc1c02b57dea.png)
 
-![](SpringCloudAlibaba.assets\4536fedbc886459d9c31b3d57c36704a.png)
+![](SpringCloudAlibaba.assets/4536fedbc886459d9c31b3d57c36704a.png)
 
-![](SpringCloudAlibaba.assets\a322602a61634b5889c4231c1499e5c2.png)
+![](SpringCloudAlibaba.assets/a322602a61634b5889c4231c1499e5c2.png)
 
 新增一个订单+2个扣减
 
@@ -6115,11 +6115,11 @@ public class AccountServiceImpl implements AccountService
 
 **数据库情况**
 
-![](SpringCloudAlibaba.assets\650bc71fd00f4cf88dc406a975720a7b.png)
+![](SpringCloudAlibaba.assets/650bc71fd00f4cf88dc406a975720a7b.png)
 
-![](SpringCloudAlibaba.assets\8248438225ae4af2a9f58c1b27aa66a5.png)
+![](SpringCloudAlibaba.assets/8248438225ae4af2a9f58c1b27aa66a5.png)
 
-![](SpringCloudAlibaba.assets\66c96caef7374048a4e9219c9f1d7d10.png)
+![](SpringCloudAlibaba.assets/66c96caef7374048a4e9219c9f1d7d10.png)
 
 #### 13.8.5 超时异常解决，添加@GlobalTransactional
 
@@ -6141,7 +6141,7 @@ public void create(Order order)
 
 此时，订单模块就是TM，也是其中一个RM
 
-![](SpringCloudAlibaba.assets\e64f0c7f5b4b488aa3828d286f3e8304.png)
+![](SpringCloudAlibaba.assets/e64f0c7f5b4b488aa3828d286f3e8304.png)
 
 **查看Seata后台**
 
@@ -6149,17 +6149,17 @@ public void create(Order order)
 
 **全局事务ID**
 
-![](SpringCloudAlibaba.assets\0e6c7ff9f7c94340a0c98cf133592592.png)
+![](SpringCloudAlibaba.assets/0e6c7ff9f7c94340a0c98cf133592592.png)
 
 **全局锁**
 
-![](SpringCloudAlibaba.assets\0891270a1b534362bd10b0fb8a6d0aaf.png)
+![](SpringCloudAlibaba.assets/0891270a1b534362bd10b0fb8a6d0aaf.png)
 
 **下单后数据库3个库数据并没有任何改变，被回滚了**
 
 **业务中...**
 
-![](SpringCloudAlibaba.assets\1712dcb7625b4cd19946b7f03152de83.png)
+![](SpringCloudAlibaba.assets/1712dcb7625b4cd19946b7f03152de83.png)
 
 按照正常逻辑，本该有新记录入库，等待最后完成提交。
 
@@ -6167,7 +6167,7 @@ public void create(Order order)
 
 **order记录都添加不进来**
 
-![](SpringCloudAlibaba.assets\ddf4f6cfcdac48c8b85ed64348773399.png)
+![](SpringCloudAlibaba.assets/ddf4f6cfcdac48c8b85ed64348773399.png)
 
 上一步准备新增的记录被彻底回滚了，保证的一致性。
 
@@ -6179,9 +6179,9 @@ AT模式如何做到对业务的无侵入
 
 #### 13.9.1 是什么
 
-![](SpringCloudAlibaba.assets\3594391136364873b91a422cc8405568.png)
+![](SpringCloudAlibaba.assets/3594391136364873b91a422cc8405568.png)
 
-![](SpringCloudAlibaba.assets\a38ad7f4eece41cd8ffadf66b93ce190.png)
+![](SpringCloudAlibaba.assets/a38ad7f4eece41cd8ffadf66b93ce190.png)
 
 #### 13.9.2 一阶段加载
 
@@ -6195,7 +6195,7 @@ AT模式如何做到对业务的无侵入
 
 以上操作全部在一个数据库事务内完成，这样保证了一阶段操作的原子性。
 
-![](SpringCloudAlibaba.assets\d7ad72a2f6bd4406a590ff7733c68ca4.png)
+![](SpringCloudAlibaba.assets/d7ad72a2f6bd4406a590ff7733c68ca4.png)
 
 #### 13.9.3 二阶段分2种情况
 
@@ -6205,7 +6205,7 @@ AT模式如何做到对业务的无侵入
 
 因为“业务 SQL”在一阶段已经提交至数据库，所以Seata框架只需将一阶段保存的快照数据和行锁删掉，完成数据清理即可。
 
-![](SpringCloudAlibaba.assets\ae788a48771c48838d4bfe9655c96daf.png)
+![](SpringCloudAlibaba.assets/ae788a48771c48838d4bfe9655c96daf.png)
 
 **异常回滚**
 
@@ -6217,16 +6217,16 @@ AT模式如何做到对业务的无侵入
 
 如果两份数据完全一致就说明没有脏写，可以还原业务数据，如果不一致就说明有脏写，出现脏写就需要转人工处理。
 
-![](SpringCloudAlibaba.assets\dd4abf75141e40b6ba12fddee26b026c.png)
+![](SpringCloudAlibaba.assets/dd4abf75141e40b6ba12fddee26b026c.png)
 
 14 总结和回顾，闲聊和祝福
 --------------
 
-![1726560862762](SpringCloudAlibaba.assets\1726560862762.png)
+![1726560862762](SpringCloudAlibaba.assets/1726560862762.png)
 
 ### 14.1 总结回顾
 
-![](SpringCloudAlibaba.assets\8fb4f4960f8d44b0b13cd07ec147cc1b.png)
+![](SpringCloudAlibaba.assets/8fb4f4960f8d44b0b13cd07ec147cc1b.png)
 
 动手，做通全部案例
 
