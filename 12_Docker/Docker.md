@@ -20,7 +20,7 @@ Linux容器是与系统其他部分分隔开的一系列进程，从另一个镜
 
 Linux容器不是模拟一个完整的操作系统，而是对进程进行隔离。有了容器，就可以将软件运行所需的所有资源打包到一个隔离的容器中。容器与虚拟机不同，不需要捆绑一整套操作系统，只需要软件工作所需的库资源和设置。系统因此而变得高效轻量并保证部署在任何环境中的软件都能始终如一的运行。
 
-![img](.\Docker.assets\virtual-machine-vs-docker-container.jpg)
+![img](./Docker.assets/virtual-machine-vs-docker-container.jpg)
 
 > 对比：
 
@@ -79,7 +79,7 @@ Docker是一个 C/S（Client-Server） 结构的系统，后端是一个松耦�
 
 Docker守护进程运行在主机上，然后通过Socket连接从客户端访问，守护进程从容器接收命令并管理运行在主机上的容器。
 
-![img](.\Docker.assets\architecture.svg)
+![img](./Docker.assets/architecture.svg)
 
 
 
@@ -101,7 +101,7 @@ Docker运行的基本流程为：
 
 
 
-![img](.\Docker.assets\flow.png)
+![img](./Docker.assets/flow.png)
 
 
 
@@ -1047,7 +1047,7 @@ docker run -it --privileged=true --volumes-from u1 --name u2 ubuntu
 
 ## 13. 所有命令示意图
 
-![img](.\Docker.assets\Docker-Command-Diagram.png)
+![img](./Docker.assets/Docker-Command-Diagram.png)
 
 
 
@@ -1083,13 +1083,13 @@ rootfs（root file system），在bootfs之上，包含的就是典型Linux系�
 
 docker镜像底层层次：
 
-![1724560905130](.\Docker.assets\1724560905130.png)
+![1724560905130](./Docker.assets/1724560905130.png)
 
 对于一个精简的OS，rootfs可以很小，只需要包括最基本的命令、工具和程序库就可以了，因为底层直接使用Host的Kernel，自己只需要提供rootfs就可以。所以，对于不同的Linux发行版，bootfs基本是一致的，rootfs会有差别，不同的发行版可以共用bootfs。
 
 有差别的rootfs：
 
-![1724560913219](.\Docker.assets\1724560913219.png)
+![1724560913219](./Docker.assets/1724560913219.png)
 
 ### 3. 镜像分层
 
@@ -1108,7 +1108,7 @@ CMD ["/bin/bash"] # 容器启动时运行bash
 
 镜像创建过程：
 
-![1724560992582](.\Docker.assets\1724560992582.png)
+![1724560992582](./Docker.assets/1724560992582.png)
 
 ## 3. 镜像分层的优势
 
@@ -1124,7 +1124,7 @@ CMD ["/bin/bash"] # 容器启动时运行bash
 
 如图：
 
-![1724561040979](.\Docker.assets\1724561040979.png)
+![1724561040979](./Docker.assets/1724561040979.png)
 
 
 
@@ -2657,7 +2657,7 @@ Docker使用Linux桥接，在宿主机虚拟一个`Docker`容器网桥（`docker
 
 
 
-![img](.\Docker.assets\bridge.webp)
+![img](./Docker.assets/bridge.webp)
 
 
 
@@ -2702,7 +2702,7 @@ docker run --net host tomcat
 
 
 
-![img](.\Docker.assets\host.webp)
+![img](./Docker.assets/host.webp)
 
 
 
@@ -2738,7 +2738,7 @@ WARNING: Published ports are discarded when using host network mode
 
 新创建的容器不会创建自己的网卡、IP，而是和一个指定的容器共享IP、端口范围。两个容器除了网络共享，其他的如文件系统、进程列表依然是隔离的。
 
-![img](.\Docker.assets\container.webp)
+![img](./Docker.assets/container.webp)
 
 示例：
 
@@ -3062,7 +3062,7 @@ docker run -d -p 8000:8000 -p 9000:9000 --name portainer --restart=always -v /va
 
 CAdvisor（监控收集） + InfluxDB（存储数据） + Granfana（展示图表），合称 `CIG`。
 
-![img](.\Docker.assets\CIG.png)
+![img](./Docker.assets/CIG.png)
 
 ### 1. CAdvisor
 
